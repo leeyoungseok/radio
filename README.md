@@ -29,6 +29,7 @@ python mbc-filename-change.py
 - mbc-output/output-241031/24103120-noenergy2.csv -> mbc-output/output-20241031-noenery2.csv
 
 5. python run-mp3-segmentation-3.py.  (ffmpeg + whisper)
+- whisper의 requirement와 ina_script.py requirement 충돌이 될 수 있으므로 별도 가상환경 필요
 - mp3 파일을 whisper로 받아쓰기(전사, transcription)함. 2의 결과 speech 만 할 수도 있음. music이 간혹 오류(speech -> music)가 날 수 있으니 music도 전사시킴
 python run-mp3-segmentation-3.py --mp3_file_dir mbc --output_base_dir mbc-output --transcript_base_dir mbc-transcript
 
