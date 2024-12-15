@@ -21,10 +21,7 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-#59 23 * * * /home/yslee/anaconda3/bin/python /home/yslee/bgp/daily_bgp_update.py
-00 18  * * 1-7 /home/yslee/radio/kbs/kbs1-1800.sh> /dev/null 2>&1
 00 18  * * 1-7 /home/yslee/radio/mbc/mbc-1800.sh> /dev/null 2>&1
 00 11  * * 1-7 /home/yslee/radio/sbs/sbs-1100.sh> /dev/null 2>&1
 00 14  * * 1-7 /home/yslee/radio/cbs/cbs-1400.sh> /dev/null 2>&1
-40 06  * * 1-6 /home/yslee/radio/ebs/ebs-0640.sh> /dev/null 2>&1
 
