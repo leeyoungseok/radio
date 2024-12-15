@@ -1,0 +1,175 @@
+Minute 0: Speech = 23.70 seconds (5 segments, 39.50%), Music = 36.30 seconds (4 segments, 60.50%)
+Minute 1: Speech = 39.90 seconds (4 segments, 66.50%), Music = 20.10 seconds (4 segments, 33.50%)
+Minute 2: Speech = 23.24 seconds (3 segments, 38.73%), Music = 36.76 seconds (8 segments, 61.27%)
+Minute 3: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 4: Speech = 5.60 seconds (2 segments, 9.33%), Music = 54.40 seconds (1 segments, 90.67%)
+Minute 5: Speech = 60.00 seconds (18 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 6: Speech = 39.06 seconds (4 segments, 65.10%), Music = 20.94 seconds (2 segments, 34.90%)
+Minute 7: Speech = 49.62 seconds (4 segments, 82.70%), Music = 10.38 seconds (2 segments, 17.30%)
+Minute 8: Speech = 15.72 seconds (1 segments, 26.20%), Music = 44.28 seconds (1 segments, 73.80%)
+Minute 9: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 10: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (2 segments, 100.00%)
+Minute 11: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 12: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 13: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 14: Speech = 54.40 seconds (17 segments, 90.67%), Music = 5.60 seconds (1 segments, 9.33%)
+Minute 15: Speech = 60.00 seconds (23 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 16: Speech = 12.40 seconds (7 segments, 20.67%), Music = 47.60 seconds (1 segments, 79.33%)
+Minute 17: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 18: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 19: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 20: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (2 segments, 100.00%)
+Minute 21: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 22: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 23: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 24: Speech = 40.02 seconds (15 segments, 66.70%), Music = 19.98 seconds (1 segments, 33.30%)
+Minute 25: Speech = 53.98 seconds (18 segments, 89.97%), Music = 6.02 seconds (1 segments, 10.03%)
+Minute 26: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 27: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 28: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (3 segments, 100.00%)
+Minute 29: Speech = 31.96 seconds (3 segments, 53.27%), Music = 28.04 seconds (3 segments, 46.73%)
+Minute 30: Speech = 49.98 seconds (2 segments, 83.30%), Music = 10.02 seconds (2 segments, 16.70%)
+Minute 31: Speech = 12.68 seconds (2 segments, 21.13%), Music = 47.32 seconds (3 segments, 78.87%)
+Minute 32: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 33: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 34: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 35: Speech = 3.96 seconds (2 segments, 6.60%), Music = 56.04 seconds (2 segments, 93.40%)
+Minute 36: Speech = 60.00 seconds (19 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 37: Speech = 25.46 seconds (10 segments, 42.43%), Music = 34.54 seconds (1 segments, 57.57%)
+Minute 38: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 39: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 40: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 41: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 42: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 43: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 44: Speech = 7.32 seconds (4 segments, 12.20%), Music = 52.68 seconds (1 segments, 87.80%)
+Minute 45: Speech = 60.00 seconds (19 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 46: Speech = 10.94 seconds (5 segments, 18.23%), Music = 49.06 seconds (1 segments, 81.77%)
+Minute 47: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 48: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 49: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 50: Speech = 21.66 seconds (1 segments, 36.10%), Music = 38.34 seconds (1 segments, 63.90%)
+Minute 51: Speech = 51.48 seconds (5 segments, 85.80%), Music = 8.52 seconds (1 segments, 14.20%)
+Minute 52: Speech = 48.26 seconds (3 segments, 80.43%), Music = 11.74 seconds (3 segments, 19.57%)
+Minute 53: Speech = 8.66 seconds (2 segments, 14.43%), Music = 51.34 seconds (2 segments, 85.57%)
+Minute 54: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 55: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 56: Speech = 50.10 seconds (3 segments, 83.50%), Music = 9.90 seconds (3 segments, 16.50%)
+Minute 57: Speech = 14.96 seconds (2 segments, 24.93%), Music = 45.04 seconds (3 segments, 75.07%)
+Minute 58: Speech = 22.80 seconds (2 segments, 38.00%), Music = 37.20 seconds (2 segments, 62.00%)
+Minute 59: Speech = 20.90 seconds (2 segments, 34.83%), Music = 39.10 seconds (2 segments, 65.17%)
+Minute 60: Speech = 17.74 seconds (4 segments, 29.57%), Music = 42.26 seconds (6 segments, 70.43%)
+Minute 61: Speech = 18.70 seconds (5 segments, 31.17%), Music = 41.30 seconds (6 segments, 68.83%)
+Minute 62: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (2 segments, 100.00%)
+Minute 63: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 64: Speech = 38.40 seconds (13 segments, 64.00%), Music = 21.60 seconds (1 segments, 36.00%)
+Minute 65: Speech = 60.00 seconds (13 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 66: Speech = 35.30 seconds (3 segments, 58.83%), Music = 24.70 seconds (2 segments, 41.17%)
+Minute 67: Speech = 28.62 seconds (2 segments, 47.70%), Music = 31.38 seconds (2 segments, 52.30%)
+Minute 68: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 69: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 70: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 71: Speech = 10.76 seconds (5 segments, 17.93%), Music = 49.24 seconds (1 segments, 82.07%)
+Minute 72: Speech = 60.00 seconds (27 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 73: Speech = 34.28 seconds (13 segments, 57.13%), Music = 25.72 seconds (1 segments, 42.87%)
+Minute 74: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 75: Speech = 3.50 seconds (1 segments, 5.83%), Music = 56.50 seconds (3 segments, 94.17%)
+Minute 76: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 77: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 78: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 79: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 80: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (2 segments, 100.00%)
+Minute 81: Speech = 47.14 seconds (19 segments, 78.57%), Music = 12.86 seconds (1 segments, 21.43%)
+Minute 82: Speech = 34.90 seconds (16 segments, 58.17%), Music = 25.10 seconds (1 segments, 41.83%)
+Minute 83: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (2 segments, 100.00%)
+Minute 84: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 85: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (4 segments, 100.00%)
+Minute 86: Speech = 38.78 seconds (4 segments, 64.63%), Music = 21.22 seconds (6 segments, 35.37%)
+Minute 87: Speech = 2.48 seconds (1 segments, 4.13%), Music = 57.52 seconds (2 segments, 95.87%)
+Minute 88: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (3 segments, 100.00%)
+Minute 89: Speech = 38.70 seconds (3 segments, 64.50%), Music = 21.30 seconds (2 segments, 35.50%)
+Minute 90: Speech = 46.86 seconds (3 segments, 78.10%), Music = 13.14 seconds (3 segments, 21.90%)
+Minute 91: Speech = 11.08 seconds (1 segments, 18.47%), Music = 48.92 seconds (2 segments, 81.53%)
+Minute 92: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 93: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 94: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 95: Speech = 41.20 seconds (13 segments, 68.67%), Music = 18.80 seconds (1 segments, 31.33%)
+Minute 96: Speech = 18.86 seconds (7 segments, 31.43%), Music = 41.14 seconds (1 segments, 68.57%)
+Minute 97: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 98: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 99: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (3 segments, 100.00%)
+Minute 100: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 101: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 102: Speech = 11.70 seconds (4 segments, 19.50%), Music = 48.30 seconds (1 segments, 80.50%)
+Minute 103: Speech = 60.00 seconds (23 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 104: Speech = 26.92 seconds (14 segments, 44.87%), Music = 33.08 seconds (1 segments, 55.13%)
+Minute 105: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 106: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 107: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 108: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 109: Speech = 36.66 seconds (4 segments, 61.10%), Music = 23.34 seconds (2 segments, 38.90%)
+Minute 110: Speech = 55.26 seconds (11 segments, 92.10%), Music = 4.74 seconds (2 segments, 7.90%)
+Minute 111: Speech = 60.00 seconds (24 segments, 100.00%), Music = 0.00 seconds (0 segments, 0.00%)
+Minute 112: Speech = 14.00 seconds (7 segments, 23.33%), Music = 46.00 seconds (1 segments, 76.67%)
+Minute 113: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 114: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 115: Speech = 0.00 seconds (0 segments, 0.00%), Music = 60.00 seconds (1 segments, 100.00%)
+Minute 116: Speech = 31.02 seconds (4 segments, 51.70%), Music = 28.98 seconds (3 segments, 48.30%)
+Minute 117: Speech = 25.38 seconds (4 segments, 42.30%), Music = 34.62 seconds (4 segments, 57.70%)
+Minute 118: Speech = 22.88 seconds (2 segments, 38.13%), Music = 37.12 seconds (3 segments, 61.87%)
+Minute 119: Speech = 21.02 seconds (2 segments, 35.03%), Music = 38.98 seconds (4 segments, 64.97%)
+Minute 120: Speech = 1.08 seconds (1 segments, 17.88%), Music = 4.96 seconds (1 segments, 82.12%)
+Rows with 'song' in Candidate column:     labels    start     stop  Duration Candidate
+25    music   165.50   294.40    128.90      song
+27   speech   296.32   303.02      6.70      song
+55    music   495.72   647.04    151.32      song
+56    music   647.04   845.60    198.56      song
+102   music   972.40  1210.22    237.82      song
+103   music  1210.22  1459.98    249.76      song
+136   music  1553.98  1719.98    166.00      song
+138   music  1724.38  1745.76     21.38      song
+150   music  1897.86  2154.70    256.84      song
+153  speech  2157.58  2162.86      5.28      song
+181   music  2245.46  2692.68    447.22      song
+185  speech  2699.36  2701.30      1.94      song
+208   music  2770.94  3038.34    267.40      song
+222   music  3194.06  3366.94    172.88      song
+231   music  3444.94  3484.84     39.90      song
+246   music  3653.98  3660.38      6.40      song
+257   music  3726.70  3861.60    134.90      song
+289   music  4066.78  4309.24    242.46      song
+294  speech  4319.32  4321.14      1.82      song
+333   music  4414.28  4519.58    105.30      song
+336   music  4536.38  4818.82    282.44      song
+337   music  4818.82  4872.86     54.04      song
+373   music  5032.58  5127.38     94.80      song
+376   music  5159.48  5162.36      2.88      song
+387   music  5234.22  5320.18     85.96      song
+389   music  5324.30  5345.72     21.42      song
+400   music  5477.46  5718.80    241.34      song
+420   music  5778.86  5961.12    182.26      song
+422   music  5972.90  6168.30    195.40      song
+426  speech  6179.32  6181.82      2.50      song
+462   music  6266.92  6560.70    293.78      song
+509   music  6734.00  6966.64    232.64      song
+
+Music Detected Segments (70% or more music):
+Music detected: 3 - 4 (114.40 seconds, 2 segments)
+Music detected: 8 - 13 (344.28 seconds, 7 segments)
+Music detected: 16 - 23 (467.60 seconds, 9 segments)
+Music detected: 26 - 28 (180.00 seconds, 5 segments)
+Music detected: 31 - 35 (283.36 seconds, 8 segments)
+Music detected: 38 - 44 (412.68 seconds, 7 segments)
+Music detected: 46 - 49 (229.06 seconds, 4 segments)
+Music detected: 53 - 55 (171.34 seconds, 4 segments)
+Music detected: 62 - 63 (120.00 seconds, 3 segments)
+Music detected: 68 - 71 (229.24 seconds, 4 segments)
+Music detected: 74 - 80 (416.50 seconds, 10 segments)
+Music detected: 83 - 85 (180.00 seconds, 7 segments)
+Music detected: 87 - 88 (117.52 seconds, 5 segments)
+Music detected: 91 - 94 (228.92 seconds, 5 segments)
+Music detected: 97 - 102 (348.30 seconds, 8 segments)
+Music detected: 105 - 108 (240.00 seconds, 4 segments)
+Music detected: 112 - 115 (226.00 seconds, 4 segments)
+
+Number of music detected segments with 70% or more music: 17

@@ -1,0 +1,2133 @@
+﻿Start Time,Stop Time,Duration,Type,MP3 File,Transcript File,Transcript,Summary
+0.0,5.1,5.1,speech,speech_output_segment_1.mp3,speech_0.txt,"/ 그래서 다양한의 택을 즐기세요.
+  돼지고기 먹고나 살땐 원산지를 꼭 확인하세요.","- 분류: 아님
+- 제품:
+- 회사:"
+5.1,10.8,5.7,speech,speech_output_segment_2.mp3,speech_5.txt,/ 영양도 맛도 신선함도 국내산 돼지고기 한돈에서 6시를 알려드립니다.,"- 분류: 광고
+- 제품: 국내산 돼지고기 한돈
+- 회사: 없음"
+10.8,12.1,1.3,music,music_output_segment_3.mp3,music_10.txt,/,"- 분류: 안됨
+- 제품: 
+- 회사:"
+12.1,45.4,33.3,speech; music,speech_output_segment_5.mp3; music_output_segment_4.mp3,speech_43.txt; music_12.txt,/  / 아이고 인생이 연기처럼,"- 분류: 안됨
+- 제품:
+- 회사:"
+45.4,47.6,2.3,music,music_output_segment_6.mp3,music_45.txt,/ 가라지네,"- 분류: 안됨
+- 제품:
+- 회사: 가라지네"
+47.6,58.0,10.3,speech,speech_output_segment_7.mp3,speech_47.txt,/ 노년의 엄마가 작은 목소리로 말하자 중년의 딸은 가슴이 점이는 듯해 감히 그 고통을 느낄 수조차 없을 것 같습니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+58.0,64.3,6.3,speech; music,music_output_segment_8.mp3; speech_output_segment_9.mp3,music_57.txt; speech_59.txt,"/  / 정말 그렇네
+  다른 높나지 없는 목소리로 대답...","- 분류: 안됨
+- 제품:
+- 회사:"
+64.3,66.0,1.7,music,music_output_segment_10.mp3,music_64.txt,/ 다!,"- 분류: 안됨
+- 제품:
+- 회사:"
+66.0,71.0,5.1,speech,speech_output_segment_11.mp3,speech_65.txt,"/ 아유, 제대로 살지도 않았는데
+  3월만 가버리고 있어","- 분류: 아님
+- 제품:
+- 회사:"
+71.0,77.9,6.9,music,music_output_segment_12.mp3,music_71.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+77.9,87.3,9.4,speech,speech_output_segment_13.mp3,speech_77.txt,"/ 더운 일상은 문뚱뚱 떠올라오는 자기 상실의 감각마저 뒤로 하고
+  삶의 주인이 되는 기쁨까지 외면하면서 삶의","- 분류: 아님
+- 제품:
+- 회사:"
+87.3,89.3,2.0,music,music_output_segment_14.mp3,music_87.txt,/ 공무하게 합니다,"- 분류: 안됨
+- 제품:
+- 회사:"
+89.3,110.5,21.2,speech,speech_output_segment_15.mp3,speech_89.txt,"/ 세상의 모든 관계 중에서 그 애증의 깊이가 가장 깊다는 모녀 사이 다른 어머니와의 관계에서 동일 씨와 투사, 질투와 연민 등 다양한 갈등이 얽 얼켜있는 걸 칩치합니다.
+  둘 사이를 사나운 애착 관계로 이름 붙입니다.","- 분류: 아님
+- 제품:
+- 회사:"
+110.5,124.7,14.2,music,music_output_segment_16.mp3,music_110.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+124.7,132.7,8.1,speech,speech_output_segment_17.mp3,speech_124.txt,/ 비비연고닉의 자전적 에세이 사나운 애착은 세상의 모든 관계를 되돌아본 게 합니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+132.7,134.1,1.3,music,music_output_segment_18.mp3,music_132.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+134.1,144.0,9.9,speech,speech_output_segment_19.mp3,speech_134.txt,/ 세상의 그 어떤 사랑도 당연한 건 없고 그 어떤 관계도 노력없이는 계속 이어지기가 어렵습니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+144.0,146.4,2.4,music,music_output_segment_20.mp3,music_143.txt,/ 시스템,"- 분류: 안됨
+- 제품:
+- 회사:"
+146.4,151.6,5.3,speech,speech_output_segment_21.mp3,speech_146.txt,"/ 12월 15일 일요일입니다.
+  배출 수익 막 캠프","- 분류: 안됨
+- 제품:
+- 회사:"
+151.6,159.5,7.8,music,music_output_segment_22.mp3,music_151.txt,/ 부탁드립니다!,"- 분류: 안됨
+- 제품:
+- 회사:"
+159.5,165.5,6.0,music,music_output_segment_24.mp3; music_output_segment_23.mp3; music_output_segment_25.mp3,music_163.txt; music_159.txt; music_161.txt,/ 뱅뱅뱅 뱅뱅 / 네. / 뱅뱅뱅뱅,"- 분류: 안됨
+- 제품:
+- 회사:"
+165.5,294.4,128.9,music,music_output_segment_26.mp3,music_165.txt,"/ 그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요
+  그녀를 잊지 마세요","- 분류: 아님
+- 제품: 
+- 회사:"
+294.4,296.3,1.9,speech,speech_output_segment_27.mp3,speech_294.txt,"/ 에이, 렛스티카!","- 분류: 안됨
+- 제품: 
+- 회사:"
+296.3,303.0,6.7,speech,speech_output_segment_28.mp3,speech_296.txt,"/ 커넥션 들었습니다.
+  자 뭐 연결 관계 뭐 이런 뜻이죠.","- 분류: 안됨
+- 제품:
+- 회사:"
+303.0,310.0,6.9,speech,speech_output_segment_29.mp3; speech_output_segment_31.mp3; speech_output_segment_30.mp3,speech_304.txt; speech_303.txt; speech_307.txt,/ 음... / 디스쿠자 키와 총치자 예 / 커넥션은 지금,"- 분류: 안됨
+- 제품:
+- 회사:"
+310.0,317.2,7.2,speech,speech_output_segment_34.mp3; speech_output_segment_33.mp3; speech_output_segment_32.mp3,speech_312.txt; speech_309.txt; speech_311.txt,/ 어떤 상태입니까? / 잘 이어져 있습니까? / 그렇게 믿고 있습니다 저는 그렇게 믿고 있습니다,"- 분류: 안됨
+- 제품:
+- 회사:"
+317.2,324.1,6.9,speech,speech_output_segment_36.mp3; speech_output_segment_37.mp3; speech_output_segment_35.mp3,speech_317.txt; speech_319.txt; speech_318.txt,/ 다 synths / 여러분은 / 청취자들도 천천한 별이니까,"- 분류: 안됨
+- 제품:
+- 회사:"
+324.1,331.3,7.2,speech,speech_output_segment_38.mp3; speech_output_segment_39.mp3; speech_output_segment_40.mp3,speech_326.txt; speech_328.txt; speech_324.txt,/ 다 다른... / 관계를 생각할 겁니다. / 엘레스티카 커넥션,"- 분류: 안됨
+- 제품:
+- 회사: 엘레스티카"
+331.3,335.6,4.3,speech,speech_output_segment_41.mp3; speech_output_segment_42.mp3,speech_333.txt; speech_331.txt,/ 배출 수익마트 캠프입니다. / 광고 듣겠습니다,"- 분류: 안됨
+- 제품:
+- 회사:"
+335.6,343.9,8.3,speech,speech_output_segment_43.mp3,speech_335.txt,"/ 현대의 상에서 운전자를 찾습니다.
+  운전한 지 3년 넘으신 분 3년 동안 사고가 없었던 분?","- 분류: 아님
+- 제품:
+- 회사:"
+343.9,355.6,11.7,speech,speech_output_segment_44.mp3,speech_343.txt,/ 단들다고 생각했다면 현대상 하이카 운전자 보험 3년 무사고 운전자라면 최대 23% 할인 되니까 가입시 유의사항을 확인하세요,"- 분류: 광고
+- 제품: 현대상 하이카 운전자 보험
+- 회사: 현대상"
+355.6,361.9,6.3,speech,speech_output_segment_45.mp3,speech_355.txt,/ 마음의 폭풍이 몰아치는 하루였다면 잠시 귀 기울여보세요,"- 분류: 안됨
+- 제품: 
+- 회사:"
+361.9,365.4,3.5,music,music_output_segment_46.mp3,music_361.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+365.4,378.8,13.3,speech,speech_output_segment_47.mp3,speech_365.txt,"/ 이 소리는 스트레스 감소를 도와주는 안마이자 LG 힐링미의 마인드케어 사운드입니다.
+  휴식의 새로운 바이브 LG 힐링미 MX9","- 분류: 광고
+- 제품: LG 힐링미 MX9
+- 회사: LG"
+378.8,396.2,17.4,music,music_output_segment_48.mp3,music_378.txt,/ 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아,"- 분류: 아님
+- 제품: 
+- 회사:"
+396.2,415.6,19.4,speech,speech_output_segment_49.mp3,speech_396.txt,/ 독일도 돌았다. 스위스도 돌았다. 대성 보일러도 유럽처럼 빙 돌았다. 원통형 콘댄싱으로 대성 보일러가 만드는 유럽형 콘댄싱의 시대. 당신의 콘댄싱은 유럽형입니까? 대성이 네일을 위합니다. 대성 보일러,"- 분류: 광고
+- 제품: 대성 보일러
+- 회사: 대성"
+415.6,435.3,19.8,speech,speech_output_segment_50.mp3,speech_415.txt,"/ 안녕하세요. 신한 프리미어 모델 김수현입니다. 여러분께 특별한 자산 관리를 소개합니다.
+  투자, 법률, 세무, 부동산, 각 분야 전문가들이 당신만을 위한 맞춤 솔루션을 찾아드립니다.
+  지금 만나보세요. 자산 관리는 신한 프리미어.","- 분류: 광고
+- 제품: 자산 관리
+- 회사: 신한 프리미어"
+435.3,456.0,20.7,speech,speech_output_segment_51.mp3,speech_435.txt,"/ 다 같은 소파라도 쉽게 자코모가 될 수는 없죠.
+  오랜 소파장인 정신으로 주문은 모든 과정을 직접 만드는 독보적 소파 퀄리티.
+  이것이 소파 브랜드 호감도 1위의 퀄리티 정신.
+  소파는 결국 자코모.","- 분류: 광고
+- 제품: 소파
+- 회사: 자코모"
+456.0,464.6,8.6,music,music_output_segment_52.mp3,music_456.txt,"/ 서울 사이버 대학을 다니고
+  나의 성공 시대 시작됐다
+  서울 사이버 대학을 다니고
+  나를 싫..","- 분류: 아님
+- 제품: 
+- 회사: 서울 사이버 대학"
+464.6,474.0,9.4,speech,speech_output_segment_53.mp3,speech_464.txt,"/ 요가 명상학과 마이크로 디글이 대학 등
+  사이버대학 최대 46개학과 전공에서
+  지금 신입생 편입생을 보즈증유닌","- 분류: 광고
+- 제품: 사이버대학
+- 회사: 요가 명상학과 마이크로 디글"
+474.0,475.7,1.8,music,music_output_segment_54.mp3,music_473.txt,/,"- 분류: 안됨
+- 제품: 
+- 회사:"
+475.7,495.7,20.0,speech,speech_output_segment_55.mp3,speech_475.txt,"/ 건너오세요 당신의 퇴직연금이 원하던 글로벌한 세계로
+  내 연금 상품 그대로 중도해지 없이도 실물이저는 지금이다
+  수익률이 중요한 퇴직연금은 글로벌 투자하는 연금 미래의셉 증권으로
+  원금 손실 유의 투자전 상품 설명섬인 약관필독","- 분류: 광고
+- 제품: 퇴직연금
+- 회사: 미래의셉 증권"
+495.7,647.0,151.3,music,music_output_segment_56.mp3,music_495.txt,"/ 함께
+  롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤�
+  롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러
+  롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 �
+  롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러의 롤러
+  롤러의 롤러를","- 분류: 안됨
+- 제품:
+- 회사:"
+647.0,845.6,198.6,music,music_output_segment_57.mp3,music_647.txt,"/ Stewart & The
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 으 으 으 으 으 으 으 으 고
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  롤러스
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 per
+  뭐 그래요","- 분류: 안됨
+- 제품: 없음
+- 회사: 없음"
+845.6,852.3,6.7,speech,speech_output_segment_58.mp3; speech_output_segment_59.mp3; speech_output_segment_60.mp3,speech_845.txt; speech_847.txt; speech_848.txt,"/ 아, 멋진 놈 주죠? / For Play yes / 101의 원을 포함합니다.","- 분류: 안됨
+- 제품:
+- 회사:"
+852.3,860.2,7.9,speech,speech_output_segment_61.mp3; speech_output_segment_62.mp3,speech_855.txt; speech_852.txt,/ 8.120번으로 청해 주셨네요. / 사실 4PLAY는 정말 세계 최고의 연주자,"- 분류: 안됨
+- 제품:
+- 회사:"
+860.2,863.1,2.9,speech,speech_output_segment_63.mp3,speech_860.txt,/ 네 이명이 모여서 함께하는 거잖아요.,"- 분류: 안됨
+- 제품:
+- 회사:"
+863.1,868.7,5.6,speech,speech_output_segment_64.mp3,speech_863.txt,/ 이게 세계 최고의 연주자들이 모였다고 해서 꼭 좋은 결과가 나오는 건 아니에요.,"- 분류: 아님
+- 제품: 
+- 회사:"
+868.7,876.4,7.8,speech,speech_output_segment_65.mp3; speech_output_segment_66.mp3,speech_868.txt; speech_872.txt,/ 질끼리 싸워가지고 금방 / 해산되기도 하는데 이 팀은 꽤 오래 갔죠?,"- 분류: 안됨
+- 제품:
+- 회사:"
+876.4,881.2,4.8,speech,speech_output_segment_67.mp3; speech_output_segment_68.mp3,speech_878.txt; speech_876.txt,/ 음 이거 막 / 팔팔당 시의 기타리스트는 리위린 나와.,"- 분류: 안됨
+- 제품:
+- 회사:"
+881.2,886.2,5.0,speech,speech_output_segment_69.mp3,speech_881.txt,/ 이 곡은 101 이스트 바운드는,"- 분류: 안됨
+- 제품:
+- 회사:"
+886.2,893.1,6.9,speech,speech_output_segment_71.mp3; speech_output_segment_70.mp3,speech_886.txt; speech_889.txt,"/ 베이스 연주장 레이센니스트 작품이에요. / 성격 좋습니다.
+  아, 사람이...","- 분류: 아님
+- 제품:
+- 회사:"
+893.1,902.1,9.0,speech,speech_output_segment_73.mp3; speech_output_segment_74.mp3; speech_output_segment_72.mp3,speech_895.txt; speech_897.txt; speech_893.txt,/ 늘 웃는 얼굴이고 / 이 양반은 뭐 재즈 밴드서 연주하다가 / 또 에비클래프트나고도 연주하다가 막 여기저기 다 해요,"- 분류: 아님
+- 제품:
+- 회사:"
+902.1,908.5,6.3,speech,speech_output_segment_76.mp3; speech_output_segment_75.mp3,speech_905.txt; speech_902.txt,/ 심지어 못다 / 라이브에이드 때도 보니까 거기 있더라고요,"- 분류: 아님
+- 제품: 
+- 회사:"
+908.5,914.8,6.3,speech,speech_output_segment_78.mp3; speech_output_segment_77.mp3,speech_908.txt; speech_912.txt,/ 내 선이스트 누구랑 하고 있었더라 아무튼 뭐 / 가리질 않습니다,"- 분류: 안됨
+- 제품:
+- 회사:"
+914.8,921.3,6.5,speech,speech_output_segment_79.mp3; speech_output_segment_81.mp3; speech_output_segment_80.mp3,speech_916.txt; speech_918.txt; speech_914.txt,/ 아 이게 가리지 않는 게 아니고 / 가수들이나 / 연주자들이 그러니까 팀의 리더들이,"- 분류: 안됨
+- 제품:
+- 회사:"
+921.3,928.1,6.8,speech,speech_output_segment_83.mp3; speech_output_segment_82.mp3,speech_921.txt; speech_923.txt,/ 음악하는 사람들이 뭐 / 대충 그렇습니다만 성격이 좀 날카롭습니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+928.1,933.5,5.4,speech,speech_output_segment_84.mp3; speech_output_segment_85.mp3,speech_930.txt; speech_928.txt,/ 그럼에도 불구하고 / 네이선 이스트를 계속 틀는 건,"- 분류: 안됨
+- 제품: 
+- 회사:"
+933.5,938.6,5.1,speech,speech_output_segment_87.mp3; speech_output_segment_86.mp3,speech_935.txt; speech_933.txt,/ 이 양반이 성격이 좋은 거예요. / 그리고 베이스 연주자는 저는 좀...,"- 분류: 아님
+- 제품: 
+- 회사:"
+938.6,944.2,5.6,speech,speech_output_segment_88.mp3; speech_output_segment_89.mp3,speech_941.txt; speech_938.txt,/ 이럴 필요가 있다고 생각합니다. / 아무런 베이스 연주자 중에,"- 분류: 안됨
+- 제품: 
+- 회사:"
+944.2,951.5,7.3,speech,speech_output_segment_90.mp3; speech_output_segment_91.mp3; speech_output_segment_92.mp3,speech_944.txt; speech_946.txt; speech_948.txt,/ 자코 파스토리오스 같이 / 딸카로운 사람도 있긴 있습니다. / 인치 가셨잖아요,"- 분류: 안됨
+- 제품:
+- 회사:"
+951.5,958.4,6.9,speech,speech_output_segment_93.mp3; speech_output_segment_94.mp3; speech_output_segment_95.mp3,speech_951.txt; speech_955.txt; speech_952.txt,/ 너무 날카로운.. / 내 이선 이시트는 오늘도 / 세계 어딘가에서 어느 밴드에서,"- 분류: 안됨
+- 제품:
+- 회사:"
+958.4,964.3,5.9,speech,speech_output_segment_97.mp3; speech_output_segment_98.mp3; speech_output_segment_96.mp3,speech_960.txt; speech_958.txt,"/ 지금 연주하고 있을 겁니다. /  / 자, 4PLAY 151 Eastbound","- 분류: 안됨
+- 제품:
+- 회사:"
+964.3,969.4,5.1,speech,speech_output_segment_99.mp3; speech_output_segment_100.mp3,speech_964.txt; speech_968.txt,/ 자 이번에는 8이 15번으로 청례해 주신 / 마이클 잭슨,"- 분류: 안됨
+- 제품:
+- 회사:"
+969.4,972.4,3.0,speech,speech_output_segment_102.mp3; speech_output_segment_101.mp3,speech_971.txt; speech_969.txt,/ 원더 / 타임,"- 분류: 안됨
+- 제품:
+- 회사:"
+972.4,1210.2,237.8,music,music_output_segment_103.mp3,music_972.txt,"/ How it all began
+  It just seemed like living so I did
+  Do you remember back in the morning
+  When we together get a picture of our memories long
+  Do you remember us holding hands
+  Remember the days of our papers
+  I remember the days of our papers
+  Do you remember the time
+  When we fell in love
+  Do you remember the time
+  When we first met a girl
+  Remember the time
+  When we fell in love
+  Do you remember the time
+  Do you remember
+  How we used to talk
+  No, we'd stay on the phone
+  And night till dawn
+  Do you remember
+  All the things we said
+  I loved you so I remember
+  I let you go
+  Do you remember back in the spring
+  I remember every moment
+  I remember it's the same
+  Do you remember those special times
+  I remember us going on
+  In the practice of our minds
+  Remember the time
+  When we fell in love
+  Remember the time
+  When we first met a girl
+  Remember the time
+  When we fell in love
+  Do you remember the time
+  Those sweet memories
+  Always be dear to me
+  Remember no matter what I said
+  I will never forget what we said
+  Remember the time
+  Do you remember
+  Remember the time
+  When we first met a girl
+  Remember the time
+  Remember the time
+  Remember my baby
+  Remember the time
+  Remember the time
+  Remember the time
+  Remember the time
+  Remember the love
+  Remember the time
+  Remember my baby
+  Remember the time
+  Remember the time
+  Do you remember
+  Remember the time
+  On the phone
+  You and me
+  Remember the time
+  Your dreams
+  What about it girl
+  Remember the time
+  Do it
+  In the park
+  On the beach
+  Do a thing
+  And play
+  Remember
+  Remember
+  Remember the time
+  Remember the time
+  In the park
+  Remember the time
+  Do you
+  Remember the time
+  Do you remember
+  Remember the time
+  Remember the time","- 분류: 아님
+- 제품:
+- 회사:"
+1210.2,1460.0,249.8,music,music_output_segment_104.mp3,music_1210.txt,"/ Why fight the tide?
+  Don't think so much
+  But let your heart decide
+  Maybe I'll see your future
+  And it starts now
+  Look at your eyes
+  And see you searching for a sign
+  But you'll never fall
+  Till you let go
+  Don't be so scared
+  Of what you don't know
+  To your heart
+  You must be to your heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart can tell you no lies
+  And when you're truly our heart
+  I know it's gonna lead you straight to me
+  I'm willing to know it's on your side
+  And set you free
+  I can do that for you if you believe in me
+  One second, yes
+  What feels so right
+  Just trust your heart
+  And you'll see the light
+  To your heart
+  You must be to your heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart can tell you no lies
+  And when you're truly our heart
+  I know it's gonna lead you straight to me
+  You know it's true
+  Your heart knows what's good for you
+  You know it's true
+  Let your heart show you the way
+  You know it's true
+  It'll see you through
+  Yeah, yeah
+  Got my heart inside
+  And meet you where you are
+  Will you take both hands off the wheel
+  And still get far
+  Be right by my way
+  Enjoy the night
+  You won't get lost
+  With your heart to your heart
+  You must be truly our heart
+  You must be truly our heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart can tell you no lies
+  And when you're truly our heart
+  I know it's gonna lead you straight to me
+  You must be truly our heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart will tell you the lies
+  And when you're truly our heart
+  I know it's gonna lead you straight to me
+  You must be truly our heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart can tell you no lies
+  And when you're truly our heart
+  I know it's gonna lead you straight to me
+  You must be truly our heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart can tell you the lies
+  And when you're truly our heart
+  I know it's gonna lead you straight to me
+  You must be truly our heart
+  This way my hands will hold
+  And baby shower you with my love
+  Open your eyes
+  Your heart can tell you the lies
+  And when you're truly our heart","- 분류: 아님
+- 제품:
+- 회사:"
+1460.0,1465.3,5.3,speech,speech_output_segment_106.mp3; speech_output_segment_105.mp3,speech_1462.txt; speech_1459.txt,"/ 98 degrees, 그리고 Stevie Wonder / true to your heart 들었습니다.","- 분류: 아님
+- 제품:
+- 회사:"
+1465.3,1471.6,6.3,speech,speech_output_segment_108.mp3; speech_output_segment_107.mp3,speech_1465.txt; speech_1469.txt,/ 영화 애니메이션 뮬란 사운드 트릭이 있고요. / 하모니카 연주도 스티비 온도가 한군,"- 분류: 아님
+- 제품:
+- 회사:"
+1471.6,1478.8,7.2,speech,speech_output_segment_110.mp3; speech_output_segment_112.mp3; speech_output_segment_109.mp3; speech_output_segment_111.mp3,speech_1471.txt; speech_1474.txt; speech_1475.txt; speech_1472.txt,/ 고맙습니다. / 이 양반은 못하는 게 없어요 /  / 정말 진정한 천재입니다,"- 분류: 아님
+- 제품: 
+- 회사:"
+1478.8,1484.6,5.8,speech,speech_output_segment_113.mp3; speech_output_segment_114.mp3,speech_1478.txt; speech_1482.txt,/ 제가 스티비 온도 공연을 써무소니에서 한 번 봤는데 / 와,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+1484.6,1493.8,9.2,speech,speech_output_segment_115.mp3; speech_output_segment_116.mp3,speech_1484.txt; speech_1488.txt,/ 진짜 예술이에요 이런게 예술이구나 / 우리가 하는 건 예술은 아니죠. 그냥 대중음악이고,"- 분류: 아님
+- 제품:
+- 회사:"
+1493.8,1500.5,6.8,speech,speech_output_segment_118.mp3; speech_output_segment_117.mp3; speech_output_segment_119.mp3,speech_1497.txt; speech_1498.txt; speech_1493.txt,/ 송골 매 콘서트는 그냥 / 대중음악 / 스티비온의 콘서트는,"- 분류: 안됨
+- 제품: 
+- 회사:"
+1500.5,1509.3,8.8,speech,speech_output_segment_122.mp3; speech_output_segment_120.mp3; speech_output_segment_121.mp3,speech_1502.txt; speech_1500.txt; speech_1505.txt,"/ 예술! 와! / 아트의 반위를 올라간거야 / 2846번으로 청해 주셨습니다.
+  true to your heart.","- 분류: 안됨
+- 제품:
+- 회사:"
+1509.3,1514.8,5.5,speech,speech_output_segment_124.mp3; speech_output_segment_125.mp3; speech_output_segment_123.mp3,speech_1512.txt; speech_1510.txt; speech_1509.txt,/ 90°C / 크루스티비 원더 / 아패드리시는 마음은 마이클 잭슨의,"- 분류: 안됨
+- 제품:
+- 회사:"
+1514.8,1520.3,5.5,speech,speech_output_segment_126.mp3; speech_output_segment_127.mp3; speech_output_segment_128.mp3,speech_1514.txt; speech_1517.txt; speech_1516.txt,/ 일도 잊지마 /  / 이번에는 전웅진씨가,"- 분류: 안됨
+- 제품:
+- 회사:"
+1520.3,1526.9,6.6,speech,speech_output_segment_129.mp3,speech_1520.txt,/ 역사는 반복된다를 다시금 깨닫는 하루,"- 분류: 안됨
+- 제품:
+- 회사:"
+1526.9,1534.7,7.7,speech,speech_output_segment_130.mp3; speech_output_segment_131.mp3,speech_1526.txt; speech_1531.txt,"/ 어... 어이구 의미심장하네요
+  그리고 빌리지오에래 / We didn't start a fire.
+  여기 보면 이제","- 분류: 안됨
+- 제품:
+- 회사:"
+1534.7,1540.4,5.7,speech,speech_output_segment_133.mp3; speech_output_segment_132.mp3,speech_1534.txt; speech_1536.txt,/ 가사에게 / 판문점 노스코리아 사우스코리아,"- 분류: 안됨
+- 제품:
+- 회사:"
+1540.4,1546.2,5.7,speech,speech_output_segment_134.mp3,speech_1540.txt,"/ 승만리 이런거 나옵니다
+  그때는 뭐 이런게 나오는게 신기해가지고
+  와 우리","- 분류: 안됨
+- 제품:
+- 회사:"
+1546.2,1554.0,7.8,speech,speech_output_segment_136.mp3; speech_output_segment_135.mp3,speech_1550.txt; speech_1546.txt,"/ 별로 그렇게 좋은 역사가 아니죠 / Ops yourselves!
+  We didn't start a fire.","- 분류: 안됨
+- 제품:
+- 회사:"
+1554.0,1720.0,166.0,music,music_output_segment_137.mp3,music_1553.txt,"/ 어
+  어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어 어
+  어 어 어 어 어
+  어 어 어 어 어 어
+  어 어 어 어 어 어 어 어 어 어 어 어 어","- 분류: 안됨
+- 제품:
+- 회사:"
+1720.0,1724.4,4.4,music,music_output_segment_138.mp3,music_1719.txt,/ 오오오,"- 분류: 안됨
+- 제품:
+- 회사:"
+1724.4,1745.8,21.4,music,music_output_segment_139.mp3,music_1724.txt,"/ 악보 찾으려면 어디로 가야되지?
+  악보 부터 받아 여기는 악보받아
+  악보 찾다 열 받아 컴다운 악보받아
+  퀄리티가 달라 여기는 악보받아
+  Come on yo 악보받아
+  세상 모든 악보 온라인 도 모바일 도
+  여기서 탁 다운 바다 뮤직 디자이너 악보받아","- 분류: 광고
+- 제품: 악보
+- 회사: 뮤직 디자이너"
+1745.8,1751.8,6.1,music; speech,speech_output_segment_140.mp3; music_output_segment_141.mp3,music_1749.txt; speech_1745.txt,"/ 지키고 싶은 연인, 가족, 우리 아이 / 건강, 농어.","- 분류: 안됨
+- 제품: 
+- 회사:"
+1751.8,1765.1,13.3,speech,speech_output_segment_142.mp3,speech_1751.txt,"/ 그리고 지구를 위해 나와 지구 우리 모두를 지키는 방법
+  커져라 친환경 농산물
+  지구를 지키는 농부와 친환경 농산물 자조금 관리위원회가 함께합니다","- 분류: 광고
+- 제품: 친환경 농산물
+- 회사: 친환경 농산물 자조금 관리위원회"
+1765.1,1785.3,20.2,music,music_output_segment_143.mp3,music_1765.txt,"/ 코딩을 배우고 싶어 로봐로봐로 와
+  로봐로봐로와 코딩을 배워
+  로봐로봐로와 샤구력 키워
+  로봐로봐로와 놀리며 깨워
+  로봐로봐로봐로봐로봐로
+  미래를 준비하는 코딩교육전문가
+  로봐로봐로","- 분류: 광고
+- 제품: 코딩 교육
+- 회사: 로봐로봐로"
+1785.3,1805.3,20.1,speech,speech_output_segment_144.mp3,speech_1785.txt,"/ 모바일이 복잡해. 다 거기서 거기 아니야? 찾았다.
+  판총물 최적가 보장제 최적가는 기본 다양한 디자인 안심 스케줄까지 기프트 인포는 차원이 다르다.
+  판총물 초격사선원 기프트 인포. 거 봐 다 있다니까. 진짜? 궁금하면 기프트 인포.","- 분류: 광고
+- 제품: 판총물
+- 회사: 기프트 인포"
+1805.3,1809.4,4.1,music,music_output_segment_145.mp3,music_1805.txt,/ 오늘도 영상 보시고 감사합니다.,"- 분류: 아님
+- 제품: 
+- 회사:"
+1809.4,1815.3,6.0,music,music_output_segment_146.mp3,music_1809.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+1815.3,1871.1,55.8,speech,speech_output_segment_147.mp3,speech_1815.txt,"/ 오늘도 당신편 MBCFM4U 날씨와 생활입니다.
+  내일도 서쪽 지방에는 비나 눈이 내리겠습니다.
+  눈은 최대 5cm, 비는 5mm 안팎으로 예상되는데요.
+  내리는 양은 적지만 기온이 낮기 때문에 도로에 얼어붙을 수 있어서
+  교통안전에 각별한 조회가 필요합니다.
+  동해안에는 다시 건조한 바람이 유입되고 있습니다.
+  연일 메마른 날씨가 이어지고 있는데
+  서울 동북권과 일부 경기지역, 경남 창원에도
+  어제 오전에에 건조주의보가 추가로 발효됐습니다.
+  화요일까지는 이맘때 초겨울 날씨가 이어지겠고요.
+  수요일에는 서울의 아침 기온이 영하 7도까지 떨어지면서
+  올겨울들어 가장 춥겠습니다.
+  중근일 고속도로 창원 방향으로 여주분기점에서 감고까지는
+  10km 구간에서 재속도로 무내고 있습니다.
+  김유정입니다.
+  오늘도 당신편 MBCFM4U 날씨와 생활이었습니다.","- 분류: 아님
+- 제품:
+- 회사: MBCFM4U"
+1871.1,1877.5,6.4,music,music_output_segment_148.mp3,music_1871.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+1877.5,1896.3,18.8,music,music_output_segment_149.mp3,music_1877.txt,/ 구독 부탁드려요,"- 분류: 아님
+- 제품: 
+- 회사:"
+1896.3,1897.9,1.6,speech,speech_output_segment_150.mp3,speech_1896.txt,/ I can wait for...,"- 분류: 안됨
+- 제품:
+- 회사:"
+1897.9,2154.7,256.8,music,music_output_segment_151.mp3,music_1897.txt,"/ 오늘의 주인공은
+  롤러스의 롤러스
+  롤러스의 롤러스의 롤러스
+  롤러스의 롤러스
+  롤러스의 롤러스
+  롤러스의 롤러스
+  롤러스의 롤러스
+  롤러스, 롤러랑
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 to be a
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  그녀를 향해
+  No more lonely nights
+  You're my guiding light
+  Day or night I'm always there
+  And I won't go away until you tell me so
+  No I'll never go away
+  And I won't go away until you tell me so
+  No I'll never go away
+  No more lonely nights
+  You're my guiding light
+  Day or night I'm always there
+  And I won't go away until you tell me so
+  No I'll never go away
+  And I won't go away until you tell me so
+  No I'll never go away
+  I'll never go away
+  I'll never go away","- 분류: 아님
+- 제품:
+- 회사:"
+2154.7,2157.6,2.9,music; speech,speech_output_segment_152.mp3; music_output_segment_153.mp3,speech_2154.txt; music_2156.txt,/ 홀 맥아트네 /,"- 분류: 안됨
+- 제품:
+- 회사:"
+2157.6,2162.9,5.3,speech,speech_output_segment_154.mp3,speech_2157.txt,"/ 노모로니 나이트 들었습니다
+  근데 이영님은 사실 따지고 보면 이렇게","- 분류: 안됨
+- 제품:
+- 회사:"
+2162.9,2169.2,6.3,speech,speech_output_segment_156.mp3; speech_output_segment_155.mp3,speech_2165.txt; speech_2162.txt,/ 외로운 밤이 거의 없었어요. / 그 결혼도 일찍 하셔가지고,"- 분류: 안됨
+- 제품:
+- 회사:"
+2169.2,2177.0,7.8,speech,speech_output_segment_158.mp3; speech_output_segment_157.mp3,speech_2173.txt; speech_2169.txt,/ 그 린더메카튼이 린더 이스트 많이 였거든요 / 부자칩 딸이죠,"- 분류: 안됨
+- 제품:
+- 회사:"
+2177.0,2185.2,8.2,speech,speech_output_segment_159.mp3; speech_output_segment_160.mp3,speech_2181.txt; speech_2176.txt,/ 그분하고 그렇게 사이가 좋았잖아요 그래서 탄동한 / 포렌 닌다맥 같은이 그래가지고 공연도 함께 다니고,"- 분류: 안됨
+- 제품: 
+- 회사:"
+2185.2,2187.4,2.2,speech,speech_output_segment_161.mp3,speech_2185.txt,/ 어 음반도 내고,"- 분류: 안됨
+- 제품:
+- 회사:"
+2187.4,2193.8,6.4,speech,speech_output_segment_162.mp3,speech_2187.txt,/ 그리고 린다 맥아턴이 사망한 뒤에 또 얼마 안 지나지 않아서 바로,"- 분류: 안됨
+- 제품:
+- 회사:"
+2193.8,2195.0,1.2,speech,speech_output_segment_163.mp3,speech_2193.txt,/ 재혼하시고,"- 분류: 안됨
+- 제품:
+- 회사:"
+2195.0,2200.4,5.3,speech,speech_output_segment_164.mp3,speech_2195.txt,/ 그렇게 뭐 외로운 마음은.. 지금 요즘 남미..,"- 분류: 안됨
+- 제품: 
+- 회사:"
+2200.4,2206.5,6.1,speech,speech_output_segment_167.mp3; speech_output_segment_165.mp3; speech_output_segment_166.mp3,speech_2200.txt; speech_2204.txt; speech_2205.txt,/ 에서 공연하고 계시는데 퍼롤맥 같은이 / 구독 부탁드립니다! / 론니 나이스,"- 분류: 안됨
+- 제품:
+- 회사:"
+2206.5,2211.6,5.1,speech,speech_output_segment_168.mp3; speech_output_segment_169.mp3,speech_2209.txt; speech_2206.txt,/ 아 그 다짐을 얘기한.. / 난 외로움밤은,"- 분류: 아님
+- 제품: 
+- 회사:"
+2211.6,2217.8,6.2,speech,speech_output_segment_170.mp3; speech_output_segment_171.mp3,speech_2211.txt; speech_2213.txt,/ 나의 사전은 없어 뭐 이런 걸로 / 임현웅 씨가 정해주셨습니다 고맙습니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+2217.8,2223.5,5.7,speech,speech_output_segment_173.mp3; speech_output_segment_172.mp3,speech_2217.txt; speech_2221.txt,"/ 5, 8, 3, 4번이에요 / 사랑하는 아내","- 분류: 아님
+- 제품: 
+- 회사:"
+2223.5,2229.9,6.4,speech,speech_output_segment_175.mp3; speech_output_segment_174.mp3,speech_2223.txt; speech_2227.txt,/ 와의 결혼기점 1입니다 / 오늘 데이트하고 돌아가는 길에,"- 분류: 아님
+- 제품: 
+- 회사:"
+2229.9,2237.3,7.4,speech,speech_output_segment_176.mp3; speech_output_segment_177.mp3; speech_output_segment_178.mp3,speech_2229.txt; speech_2234.txt; speech_2231.txt,/ 백헴드리면서 가고 있어요 / 아 저희 결혼식 / 입장곡입니다. 이걸 부탁드릴게요.,"- 분류: 아님
+- 제품:
+- 회사:"
+2237.3,2242.8,5.5,speech,speech_output_segment_179.mp3; speech_output_segment_180.mp3,speech_2237.txt; speech_2241.txt,"/ 음...
+  아, 좋은 곡이죠. / 웨트 웨트 웨트","- 분류: 아님
+- 제품:
+- 회사:"
+2242.8,2245.5,2.6,speech,speech_output_segment_181.mp3,speech_2242.txt,/ Love is all around,"- 분류: 아님
+- 제품:
+- 회사:"
+2245.5,2692.7,447.2,music,music_output_segment_182.mp3,music_2245.txt,"/ 군단
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 a 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 오
+  Everywhere I go
+  Yeah
+  So if you really love me, love me, love me
+  Come on, I'll let it show
+  Come on, I'll let it show
+  Come on, I'll let it show
+  Come on, I'll let it show
+  Come on, I'll let it show
+  Come on, I'll let it show
+  Sorry, seems to be the hardest one
+  What I gotta do to make you love me
+  What I gotta do to make you care
+  What do I do when lightning strikes me
+  And I wait to find that you're not there
+  What I gotta do to make you want me
+  What I gotta do to be hurt
+  What do I say when it's all over
+  Sorry, seems to be the hardest word
+  It's sad, so sad
+  It's a sad, sad situation
+  And it's getting more and more absurd
+  It's sad, so sad
+  Why can't we talk it over
+  It always seems to me
+  The sorry seems to be the hardest word
+  What do I do to make you want me
+  What I gotta do to be hurt
+  What do I say when it's all over
+  Sorry, seems to be the hardest word
+  It's sad, so sad
+  It's a sad, sad situation
+  And it's getting more and more absurd
+  It's sad, so sad
+  Why can't we talk it over
+  It always seems to me
+  The sorry seems to be the hardest word
+  What do I say when it's all over
+  Sorry, seems to be the hardest word
+  What do I say when it's all over
+  Sorry, seems to be the hardest word
+  What do I do to make you love me
+  What I gotta do to be hurt
+  What do I do when lightning strikes me
+  What have I gotta do
+  What have I gotta do
+  When sorry seems to be the hardest word","- 분류: 아님
+- 제품:
+- 회사:"
+2692.7,2698.4,5.8,speech,speech_output_segment_184.mp3; speech_output_segment_183.mp3,speech_2697.txt; speech_2692.txt,"/ ē
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI
+  AI / 그다","- 분류: 안됨
+- 제품:
+- 회사:"
+2698.4,2704.9,6.4,speech,speech_output_segment_185.mp3; speech_output_segment_186.mp3; speech_output_segment_187.mp3,speech_2698.txt; speech_2699.txt; speech_2701.txt,/ 블루 / 비추링 엘튼정. / 291-208-705,"- 분류: 광고
+- 제품: 비추링 엘튼정
+- 회사: 블루"
+2704.9,2710.5,5.6,speech,speech_output_segment_188.mp3; speech_output_segment_189.mp3,speech_2707.txt; speech_2704.txt,"/ 미안하다는 말을 / 잘, 잘해야 돼요","- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+2710.5,2716.6,6.1,speech,speech_output_segment_191.mp3; speech_output_segment_190.mp3,speech_2710.txt; speech_2713.txt,/ 이게 이렇게 어려운 말이 돼서는 안 돼요 / 늘 사과해야죠,"- 분류: 아님
+- 제품:
+- 회사:"
+2716.6,2721.7,5.1,speech,speech_output_segment_193.mp3; speech_output_segment_192.mp3,speech_2718.txt; speech_2716.txt,"/ 잘못했으면 사과해줘. / 어이구, 야","- 분류: 아님
+- 제품: 
+- 회사:"
+2721.7,2727.3,5.7,speech,speech_output_segment_194.mp3,speech_2721.txt,/ 앞에 들으시는 만큼 웹 웹 웹의 Love is all around 였구요.,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+2727.3,2736.6,9.2,speech,speech_output_segment_197.mp3; speech_output_segment_195.mp3; speech_output_segment_196.mp3,speech_2729.txt; speech_2731.txt; speech_2727.txt,"/ 3, 5, 3, 8번 /  / 춘천으로 놀러 왔다가 집에 가는 길에 듣고 있어요","- 분류: 아님
+- 제품: 
+- 회사:"
+2736.6,2743.8,7.2,speech,speech_output_segment_200.mp3; speech_output_segment_199.mp3; speech_output_segment_198.mp3,speech_2736.txt; speech_2740.txt; speech_2739.txt,/ 잘하셨습니다 /  / 진짜 영원없는..,"- 분류: 안됨
+- 제품:
+- 회사:"
+2743.8,2752.0,8.2,speech,speech_output_segment_201.mp3,speech_2743.txt,/ 멘트 아니에요? 잘하셨습니다. 라디오 듣다 보면 이런 영혼 없는 멘트를 하루에도 한 200번씩 들을 수 있습니다.,"- 분류: 아님
+- 제품: 
+- 회사:"
+2752.0,2759.3,7.3,speech,speech_output_segment_203.mp3; speech_output_segment_202.mp3,speech_2751.txt; speech_2754.txt,"/ 아...
+  근데 저는 그래서... / 그런 멘트를 정말 안 하려고 노력하는데","- 분류: 안됨
+- 제품:
+- 회사:"
+2759.3,2764.6,5.3,speech,speech_output_segment_204.mp3; speech_output_segment_205.mp3,speech_2759.txt; speech_2761.txt,"/ 그럼에도 블로그하고 가끔 나옵니다. / 3, 5, 3, 8번","- 분류: 안됨
+- 제품: 
+- 회사:"
+2764.6,2770.9,6.3,speech,speech_output_segment_207.mp3; speech_output_segment_208.mp3; speech_output_segment_206.mp3,speech_2767.txt; speech_2764.txt; speech_2769.txt,"/ 또 권미선 씨 신현주 씨 / 자, 토니 브랙스톤입니다. / Breathe again.","- 분류: 안됨
+- 제품:
+- 회사:"
+2770.9,3038.3,267.4,music,music_output_segment_209.mp3,music_2770.txt,"/ 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아
+  아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아 아's
+  About the apple of my eye
+  And I can't stop doing love
+  Without the center of my life
+  And I can't get you out of my head
+  And I know I can't reach it
+  But I won't lie if you decide
+  You won't see me again
+  If I never feel you in my arms again
+  If I never feel your tender kiss again
+  If I never feel I love you now and then
+  Will I never make love to you once again?
+  Please, I'll give you love today
+  If love is
+  Then I promise you, I promise you better
+  Then I shall never breathe again
+  Breathe again
+  Then I shall never breathe again
+  And I can't stop thinking about
+  About the way my life would be
+  No, I can't stop thinking about
+  How could you love me beneath
+  And I can't get you out of my mind
+  God knows how hard I try
+  And if you walk right out my life
+  God knows I should've died
+  And I can't stop doing love
+  Without the center of my life
+  No, I can't stop doing love
+  Without the center of my life
+  And I can't get you out of my mind
+  God knows I should've died
+  And I would die if you decide
+  You won't see me again
+  If I never feel you in my arms again
+  If I never feel you
+  If I never feel your tender kiss again
+  No, no, no, no
+  If I never feel I love you now and then
+  I would say
+  Would I never make love to
+  Never make love again
+  Please, please, please
+  I don't say
+  If you love
+  If it's your never in love
+  Then I promise you, I promise you better
+  Then I shall never breathe again
+  Breathe again
+  No, no, no
+  Then I shall never breathe again
+  Then I shall never breathe again
+  Breathe again
+  No, no, no
+  Then I shall never breathe again","- 분류: 아님
+- 제품:
+- 회사:"
+3038.3,3066.1,27.8,speech,speech_output_segment_210.mp3,speech_3038.txt,"/ 건너오세요 당신의 퇴직연금이 원하던 글로벌한 세계로
+  내 연금 상품 그대로 중두해지 없이도 실물의 전은 지금이다
+  수익률이 중요한 퇴직연금은 글로벌 투자하는 연금 미래의 섹증권으로
+  원금 손실 유의 투자전 상품 설명섬인 약관필독
+  IS 동사는 봅니다
+  실모 없던 땅에서 친환경 건설의 네일을 세우고","- 분류: 광고
+- 제품: 퇴직연금
+- 회사: IS 동사"
+3066.1,3098.9,32.8,speech,speech_output_segment_211.mp3,speech_3066.txt,"/ 폐기물에서 전기차의 새로운 미래를 만들고
+  아이들에게 희망의 세상을 열어주는
+  USC 경영으로 더 큰 네일을 봅니다.
+  IS 동서
+  여행의 처음부터 끝까지
+  하나하나 취향대로
+  하나하나 새롭게
+  하나하나 내 맘대로
+  어떤 여행을 좋아하든
+  어떤 세상을 꿈꾸든
+  하나만 기억해요
+  여행의 즐거움
+  하나투어
+  하나투어 공식 인증 예약센터와
+  하나투어 앱에서 만나요.","- 분류: 광고
+- 제품: 하나투어
+- 회사: 하나투어"
+3098.9,3103.9,5.0,speech,speech_output_segment_212.mp3,speech_3098.txt,/ 들리세요? 소파에 대한 다우닝의 열정이,"- 분류: 안됨
+- 제품: 
+- 회사:"
+3103.9,3112.4,8.5,music,music_output_segment_213.mp3,music_3103.txt,/ 는 저에게 아주 큰 힘이 됩니다.,"- 분류: 안됨
+- 제품:
+- 회사:"
+3112.4,3118.1,5.7,speech,speech_output_segment_214.mp3,speech_3112.txt,"/ 45년 경험과 노하우로 헤리테즈를 지켜나갑니다.
+  가죽 소파의 기준","- 분류: 광고
+- 제품: 가죽 소파
+- 회사: 헤리테즈"
+3118.1,3141.3,23.2,speech,speech_output_segment_215.mp3,speech_3118.txt,/ 파우닝.,"- 분류: 안됨
+- 제품:
+- 회사:"
+3141.3,3151.0,9.7,music,music_output_segment_216.mp3,music_3141.txt,"/ 싱크볼!
+  색조 싱크볼!
+  색조 싱크볼!
+  싱크대로 바꾸는 싱크볼!
+  색조 싱크볼!","- 분류: 광고
+- 제품: 색조 싱크볼
+- 회사: 없음"
+3151.0,3157.5,6.5,speech,speech_output_segment_217.mp3,speech_3150.txt,/ 오래된 싱크대 이제 싱크불만 바꿔보세요 60년 주방 전문 백주 싱크,"- 분류: 광고
+- 제품: 싱크불만
+- 회사: 백주"
+3157.5,3158.6,1.1,music,music_output_segment_218.mp3,music_3157.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+3158.6,3179.1,20.4,speech,speech_output_segment_219.mp3,speech_3158.txt,"/ 팀장님 연금도 투자하세요?
+  알아서 크는 연금은 없으니까 투자해야죠
+  아 투자의 차이가 연금의 차이?
+  이제 연금도 투자다
+  N2 퇴직연금
+  역시 고용노동부가 선정한
+  2024년 퇴직연금 우수사업자
+  NH 투자진권
+  원금 손실 유의 가입전 상품 설명서 및 야권필독","- 분류: 광고
+- 제품: N2 퇴직연금
+- 회사: NH 투자진권"
+3179.1,3188.2,9.2,speech; music,speech_output_segment_221.mp3; music_output_segment_220.mp3,speech_3185.txt; music_3179.txt,"/  / 배터리 수익마크 캠프입니다.
+  자, 일리브크 곡은","- 분류: 안됨
+- 제품:
+- 회사:"
+3188.2,3194.1,5.8,speech,speech_output_segment_222.mp3,speech_3188.txt,"/ 장의진씨가 총해 주신 위켄드입니다.
+  블라인딩 라이트","- 분류: 안됨
+- 제품: 
+- 회사:"
+3194.1,3366.9,172.9,music,music_output_segment_223.mp3,music_3194.txt,"/ 3부에 다시 만납니다
+  3부에 다시 만납니다
+  4부에 다시 만납니다
+  4부에 다시 만납니다
+  4부에 다시 만납니다
+  4부에 다시 만납니다
+  4부에 다시 만납니다","- 분류: 안됨
+- 제품:
+- 회사:"
+3366.9,3371.0,4.1,speech,speech_output_segment_224.mp3,speech_3366.txt,/ 꿈꾸는 당신이 아름답습니다.,"- 분류: 아님
+- 제품: 
+- 회사:"
+3371.0,3411.9,40.9,speech,speech_output_segment_225.mp3,speech_3371.txt,"/ 티르키에는 아스크다 아크맥이라는 전통이 있답니다.
+  우리말로 해석하면 걸어놓은 빵이란 뜻인데요.
+  동네빵집에서 빵을 한 덩어리 살 때 돈은 2개 값을 냅니다.
+  그러면 주인은 빵을 하나 쌓아주고 또 하나는 벽에 걸어두죠.
+  그리고 누군가 돈이 없어서 먹을 것을 구할 수 없을 때
+  동네빵집에 가서 걸어놓은 빵이 있냐고 묻고
+  주인은 궁줄인 이웃에게 그 빵을 내줍니다.
+  연말 이웃 돕기처럼 거창한 것도 좋지만
+  일단 내가 오래 안에 밥 한 끼 사야 할 사람은 누굴까.
+  얼른 연락해 보죠.","- 분류: 아님
+- 제품:
+- 회사:"
+3411.9,3414.6,2.7,music,music_output_segment_226.mp3,music_3411.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+3414.6,3419.7,5.1,speech,speech_output_segment_227.mp3,speech_3414.txt,"/ MBC 캠페인 꾸메시도 AIP-TV, SK 브로드밴드와 함께합니다.","- 분류: 광고
+- 제품: AIP-TV
+- 회사: SK 브로드밴드"
+3419.7,3430.7,11.0,speech; music,speech_output_segment_229.mp3; music_output_segment_228.mp3,speech_3427.txt; music_3419.txt,/  / 지금 시각은 6시 57분입니다.,"- 분류: 아님
+- 제품: 
+- 회사:"
+3430.7,3433.6,2.9,music,music_output_segment_230.mp3,music_3430.txt,/ 스마티라리요미니,"- 분류: 안됨
+- 제품: 스마티라리요미니
+- 회사: 없음"
+3433.6,3444.9,11.3,speech,speech_output_segment_231.mp3,speech_3433.txt,"/ 현대해상 모델 이정재입니다.
+  아이와 함께라면 자동차 보험도 현대해상, 현대해상 하이카를 추천합니다.
+  가입시 유의상을 확인하세요.","- 분류: 광고
+- 제품: 현대해상 하이카
+- 회사: 현대해상"
+3444.9,3484.8,39.9,music,music_output_segment_232.mp3,music_3444.txt,"/ 사클이 모든 것, 에드피아몰
+  반총물, 구찌 모든 것, 에드피아몰
+  시사춘양 모든 것, 에드피아몰
+  에드피아몰, 에드피아몰
+  다양한 기프트 반총물도, 에드피아몰
+  라이프 2.0 지식을 더해 스펙어
+  라이프 2.0 두 번째 인생의 전환점
+  라이프 2.0 성인 학습적 평생 대학
+  2주기 대학의 평생 교육 체제 라이프 2.0
+  28개 4년제 대학에서 일반 학사 학위를 취득할 수 있습니다","- 분류: 광고
+- 제품: 에드피아몰
+- 회사: 에드피아"
+3484.8,3504.2,19.4,speech,speech_output_segment_233.mp3,speech_3484.txt,"/ 보관관리자님,
+  집원 건강관리 어떻게 하고 계세요?
+  다운로드 한 번으로 순쉬운 건강 데이터 관리부터
+  포인트 시스템을 통한 간편한 인센티브까지
+  한 번에 다 해주는 헬피로 관리하죠
+  에파나로 그게 다 된다고요?
+  그럼요!
+  이제 건강 캠페인은 헬피와 함께하세요","- 분류: 광고
+- 제품: 헬피
+- 회사: 에파나"
+3504.2,3536.6,32.4,music,music_output_segment_234.mp3,music_3504.txt,"/ 헬피
+  요즘 인쇄 어디 와우트레스
+  스피커 잔단재명한 다이소
+  하룻반만의 특가칙자가
+  특다 보컬리 피칙자를 빠르게 받아보자
+  어디에서 와우에서
+  요즘 닥치 어디 요즘 홍보 어디 요즘 인쇄 어디
+  인쇄는 와우프레스
+  우후
+  레이 노 레이 노
+  Something 레이 노 레이 노 레이 노
+  레이 노 Something 레이 노
+  차를 가는 사람들의 Something 레이 노 레이 노","- 분류: 안됨
+- 제품: 
+- 회사: 와우프레스"
+3536.6,3544.6,8.0,music; speech,music_output_segment_236.mp3; speech_output_segment_235.mp3,speech_3536.txt; music_3540.txt,/ 레이노 선팅하면 파손율이 무료 교체 레이노만의 선팅 / 택관,"- 분류: 광고
+- 제품: 레이노 선팅
+- 회사: 레이노"
+3544.6,3564.9,20.3,speech,speech_output_segment_237.mp3,speech_3544.txt,"/ RSV 알고 계신가요? RSV는 독감 바이러스만큼 전염성이 강한 급성 호흡계 감염 바이러스로 영료 하나 60세 이상 성인에서 감염시 8염 등 심각한 합병증으로 이어질 수 있습니다.
+  주로 독감 바이러스와 비슷한 시기에 발생하는 RSV. 자세한 내용은 의사와 상담하세요. 이 광고는 RSV 질환 인식 캠페인입니다.","- 분류: 광고
+- 제품: RSV 질환 인식 캠페인
+- 회사: 해당 정보 없음"
+3564.9,3605.1,40.3,music,music_output_segment_238.mp3,music_3564.txt,"/ 건강을 생각하는 위더스 위더스
+  생명을 존중하는 위더스 위더스
+  희망증 젊은 비연 위더스 위더스
+  안전한 건강기업 위더스 위더스
+  위더스 위더스 위더스 위더스","- 분류: 광고
+- 제품: 위더스
+- 회사: 위더스"
+3605.1,3610.3,5.1,speech,speech_output_segment_239.mp3,speech_3605.txt,/ 나란님이 선택하신 맛 좋은 대왕인표 6살에서 7시를 알려드립니다.,"- 분류: 광고
+- 제품: 대왕인표
+- 회사: 나란"
+3610.3,3612.0,1.8,music,music_output_segment_240.mp3,music_3610.txt,/ 띠이이이이이이이이,"- 분류: 안됨
+- 제품: 
+- 회사:"
+3612.0,3634.0,22.0,music,music_output_segment_241.mp3,music_3612.txt,/ 1.,"분류: 안됨
+제품: 없음
+회사: 없음"
+3634.0,3641.5,7.5,speech,speech_output_segment_242.mp3,speech_3634.txt,"/ 매주 일요일 3, 4부 사운드에이 스페셜입니다.
+  지난주부터 계속해서 빌보드에 선정한","- 분류: 안됨
+- 제품:
+- 회사:"
+3641.5,3647.2,5.7,music,music_output_segment_243.mp3,music_3641.txt,"/ hyped
+  15국에","- 분류: 안됨
+- 제품:
+- 회사:"
+3647.2,3654.0,6.8,music; speech,music_output_segment_245.mp3; speech_output_segment_244.mp3; speech_output_segment_246.mp3,music_3650.txt; speech_3651.txt; speech_3647.txt,"/ 이별노래
+  최고의 이별노래 /  / 75. 베스트 브레이크업 송","- 분류: 광고
+- 제품: 이별노래
+- 회사: 베스트 브레이크업 송"
+3654.0,3660.4,6.4,music,music_output_segment_247.mp3,music_3653.txt,"/ 오버홀타임
+  아 이 겨울에","- 분류: 안됨
+- 제품:
+- 회사:"
+3660.4,3668.0,7.6,music; speech,speech_output_segment_248.mp3; music_output_segment_249.mp3; speech_output_segment_250.mp3,speech_3660.txt; music_3661.txt; speech_3663.txt,"/ 헤어지신 분들 / To be continued / 울리고나 이런 의도는 전혀 없다는 것을
+  다시 한번 밝혀드리면서","- 분류: 아님
+- 제품: 
+- 회사:"
+3668.0,3675.0,7.0,speech; music,speech_output_segment_252.mp3; music_output_segment_251.mp3,speech_3670.txt; music_3668.txt,"/ 쪼! / 근데 왜 쓸데없이 이런 걸 선정하는지는 모르겠어요
+  근데 음악들이 좋기 때문에","- 분류: 아님
+- 제품: 
+- 회사:"
+3675.0,3677.4,2.4,music,music_output_segment_253.mp3,music_3675.txt,/ 으아아아,"- 분류: 안됨
+- 제품: 
+- 회사:"
+3677.4,3683.2,5.8,speech,speech_output_segment_254.mp3,speech_3677.txt,"/ 저희들이 방송하고 있습니다
+  자 오늘 30이 부터 출발합니다
+  30이","- 분류: 안됨
+- 제품:
+- 회사:"
+3683.2,3686.6,3.4,speech; music,speech_output_segment_256.mp3; music_output_segment_255.mp3,music_3683.txt; speech_3684.txt,/  / 리조의 2019년 작품?,"- 분류: 안됨
+- 제품:
+- 회사:"
+3686.6,3726.7,40.1,music,music_output_segment_257.mp3,music_3686.txt,/ 트로트 헐 Howl,"- 분류: 안됨
+- 제품:
+- 회사:"
+3726.7,3861.6,134.9,music,music_output_segment_258.mp3,music_3726.txt,"/ Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q
+  Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&
+  A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q
+  A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q
+  A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q&A Q","- 분류: 아님
+- 제품: 
+- 회사:"
+3861.6,3867.2,5.6,speech,speech_output_segment_259.mp3,speech_3861.txt,"/ 아 리조의 true the heart 였습니다.
+  2019년에","- 분류: 안됨
+- 제품:
+- 회사:"
+3867.2,3874.2,7.1,speech,speech_output_segment_261.mp3; speech_output_segment_260.mp3,speech_3869.txt; speech_3867.txt,"/ 싱글차트 1위에 올린 곡입니다. / 원래는 2017년에 발매됐거든요.
+  근데 전혀 주목받지 못하다가","- 분류: 안됨
+- 제품: 
+- 회사:"
+3874.2,3879.3,5.1,speech,speech_output_segment_262.mp3,speech_3874.txt,/ 그 동영상 왜 짧은 거 올리는 데 있잖아. 쇼트 폼이라고 부르죠.,"- 분류: 아님
+- 제품: 
+- 회사:"
+3879.3,3885.8,6.4,speech,speech_output_segment_263.mp3; speech_output_segment_265.mp3; speech_output_segment_264.mp3,speech_3881.txt; speech_3879.txt; speech_3883.txt,/ 쇼트폼 플랫폼이소 / 이 고기 / 많이 사용되면서 인기가 올랐죠.,"- 분류: 아님
+- 제품:
+- 회사:"
+3885.8,3891.0,5.2,speech,speech_output_segment_267.mp3; speech_output_segment_268.mp3; speech_output_segment_266.mp3,speech_3887.txt; speech_3889.txt; speech_3885.txt,/ 그래서 싱글자TV / 음.. 이런 걸 이제 / 뒤늦게 히트하는 걸,"- 분류: 안됨
+- 제품:
+- 회사:"
+3891.0,3898.4,7.4,speech,speech_output_segment_269.mp3; speech_output_segment_270.mp3,speech_3890.txt; speech_3894.txt,/ 슬리퍼 히트라고 얘기합니다. / 아 내용은 뭐 이별한 뒤에도 슬퍼하지 않고,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+3898.4,3903.5,5.1,speech,speech_output_segment_273.mp3; speech_output_segment_272.mp3; speech_output_segment_271.mp3,speech_3898.txt; speech_3901.txt; speech_3902.txt,/ 둘이 당당한 여성의 태도를 / 뷰사한 / 가사입니다.,"- 분류: 안됨
+- 제품:
+- 회사:"
+3903.5,3909.1,5.6,speech,speech_output_segment_275.mp3; speech_output_segment_274.mp3,speech_3907.txt; speech_3903.txt,/ 그래미에서 베스트 팝솔로 퍼포먼스 부분을 쇼그릇고요. / 리조예,"- 분류: 안됨
+- 제품:
+- 회사:"
+3909.1,3914.4,5.2,speech,speech_output_segment_278.mp3; speech_output_segment_276.mp3; speech_output_segment_277.mp3,speech_3909.txt; speech_3911.txt; speech_3910.txt,/ Truth Hearts / 30일 / 최고의 이별노래 29위는,"- 분류: 안됨
+- 제품:
+- 회사:"
+3914.4,3921.0,6.7,speech,speech_output_segment_280.mp3; speech_output_segment_279.mp3,speech_3914.txt; speech_3916.txt,/ 고티의 피쳐링 킴 브라우 / 야 이거 벌써 이렇게 됐네 2011년 작품,"- 분류: 아님
+- 제품: 
+- 회사:"
+3921.0,3925.8,4.7,speech,speech_output_segment_282.mp3; speech_output_segment_281.mp3,speech_3923.txt; speech_3921.txt,/ Somebody that I used to know. / 광고 주의에 듣겠습니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+3925.8,3988.1,62.4,speech,speech_output_segment_283.mp3,speech_3925.txt,"/ 왜 가벼운 참치지?
+  지방 낮춰? 가벼워서!
+  웃뚜기 가벼운 참치!
+  바로 먹어? 간편해서!
+  웃뚜기 가벼운 참치! 단백질도 챙겨줘서!
+  웃뚜기 가벼운 참치!
+  든든하고? 맛있어서!
+  웃뚜기 가벼운 참치!
+  참치에 없던 가벼움! 웃뚜기 가벼운 참치!
+  웃뚜기!
+  마트에서 하얀 참치캔을 찾아보세요!
+  지금 직장인에게 가장 필요한 능력은?
+  인내력? 정보력! 기획력! 영업력!
+  삼성금융연금력!
+  삼성생명, 삼성화제, 삼성증권, 삼성자산운용이 함께 연금력을 만들어갑니다.
+  삼성금융, 퇴직연금, 원금손실에 유의하시고, 자세한 내용은 삼성금융참조.
+  저 아이유가 정착한 퇴직연금 하플. 우리 은행, 연금프렌즈.
+  요즘 잘 나가는 퇴직연금이라 다들 넘어오는 중이거든요.
+  우리로 넘어와요.
+  퇴직연금의 A2G, 우리 은행, 연금프렌즈.
+  투자전 설명청취, 상품 설명서, 약관펠독, 원금손실 발생 가능위 투자자 귀속.","- 분류: 광고
+- 제품: 가벼운 참치
+- 회사: 웃뚜기
+
+- 분류: 광고
+- 제품: 퇴직연금
+- 회사: 삼성생명, 삼성화제, 삼성증권, 삼성자산운용
+
+- 분류: 광고
+- 제품: 퇴직연금
+- 회사: 우리 은행"
+3988.1,4006.5,18.4,music,music_output_segment_284.mp3,music_3988.txt,"/ 빨간 하얀 라면도 푸디버디움
+  바삭 팡팡 치킨도 푸디버디움
+  Everybody DDD 푸디버디움
+  푸디버디 DDD 푸디버디움
+  우리아이 인바친구 푸디버디","- 분류: 광고
+- 제품: 푸디버디움
+- 회사: 푸디버디"
+4006.5,4011.7,5.2,speech,speech_output_segment_285.mp3,speech_4006.txt,"/ 안녕하세요. 윤종신입니다.
+  이정아입니다. 탄탄한 네일을 위해 함께 들어볼까요?","- 분류: 안됨
+- 제품:
+- 회사:"
+4011.7,4018.0,6.3,music,music_output_segment_286.mp3,music_4011.txt,/ 부탁드립니다!,"- 분류: 안됨
+- 제품:
+- 회사:"
+4018.0,4027.2,9.2,speech,speech_output_segment_287.mp3,speech_4018.txt,"/ 3등 연급은 탄탄한 신안은행 3등 연급
+  투자전 3명 정치 3분 3면서 약관필도
+  공급 순실 발생 가능 및 투자자 귀속
+  IRP 수수료 최재 0.21% 이며 홈페이지 참고","- 분류: 광고
+- 제품: 3등 연급
+- 회사: 신안은행"
+4027.2,4045.4,18.2,music,music_output_segment_288.mp3,music_4027.txt,/ 호텔식 샤브 밀폐 샤브홀데이,"- 분류: 광고
+- 제품: 샤브홀데이
+- 회사: 호텔식 샤브"
+4045.4,4066.8,21.4,speech,speech_output_segment_289.mp3,speech_4045.txt,/ 사랑해,"- 분류: 아님
+- 제품: 
+- 회사:"
+4066.8,4309.2,242.5,music,music_output_segment_290.mp3,music_4066.txt,"/ I told myself that you were right for me
+  But felt so lonely in your company
+  But that was lovin' to make us still remember
+  You can get addicted to a certain kind of sadness
+  Like resignation to the end, always the end
+  So when we found we could not make sense
+  Well you said that we would still be friends
+  But I admit that I was clueless that it was over
+  But you didn't have to cut me off
+  Bigger like a nail, I happened to know we were nothing
+  I don't even need your love
+  But you treat me like a stranger and I feel so rough
+  No, you didn't have to stoop so low
+  Heavy friends, collect your records and we'll change your number
+  Kissin' I need that ball
+  Now you're just somebody that I used to know
+  Now you're just somebody that I used to know
+  Now you're just somebody that I used to know
+  You can get addicted to a certain kind of sadness
+  Like resignation to the end, always the end
+  So when we found we could not make sense
+  Well you treat me like a stranger and I feel so rough
+  No, you didn't have to cut me off
+  Bigger than a nail, I happened to know we were nothing
+  But I don't want to live that way
+  We didn't learn to every word you say
+  You said that you could let it go
+  And I wouldn't catch you
+  hung up on somebody that you used to know
+  But you didn't have to cut me off
+  Bigger than a nail, I happened to know we were nothing
+  I don't even need your love
+  But you treat me like a stranger and I feel so rough
+  I didn't have to stop so long
+  Having friends, collect your tickets and change your number
+  Kissin' I need that ball
+  Now you're just somebody that I used to know
+  Somebody I used to know
+  Somebody that I used to know
+  Somebody I used to know
+  Somebody I used to see
+  Somebody that I used to know
+  I used to know
+  That I used to know
+  I used to know
+  Somebody","- 분류: 아님
+- 제품:
+- 회사:"
+4309.2,4315.2,6.0,speech,speech_output_segment_291.mp3; speech_output_segment_292.mp3,speech_4311.txt; speech_4309.txt,"/ 아 29위 / 곧 뒤에 피처링 킴브라,
+  Somebody that I used to know.","- 분류: 아님
+- 제품:
+- 회사:"
+4315.2,4321.1,5.9,speech,speech_output_segment_294.mp3; speech_output_segment_293.mp3; speech_output_segment_295.mp3,speech_4315.txt; speech_4317.txt; speech_4319.txt,/ 2011년 작품입니다. /  / 이게 좀...,"- 분류: 안됨
+- 제품:
+- 회사:"
+4321.1,4326.6,5.4,speech,speech_output_segment_296.mp3; speech_output_segment_297.mp3,speech_4321.txt; speech_4322.txt,/ 브라질 음악의 고장. / 루이스봉파라고 있습니다. 루이스봉파에,"- 분류: 안됨
+- 제품:
+- 회사:"
+4326.6,4332.1,5.6,speech,speech_output_segment_300.mp3; speech_output_segment_299.mp3; speech_output_segment_298.mp3,speech_4330.txt; speech_4326.txt; speech_4328.txt,/ 1967년 곡. / 세비야를 / 샘플링에서 사용했죠,"- 분류: 아님
+- 제품:
+- 회사:"
+4332.1,4340.2,8.1,speech,speech_output_segment_303.mp3; speech_output_segment_301.mp3; speech_output_segment_302.mp3,speech_4333.txt; speech_4335.txt; speech_4332.txt,"/ 싱글차트 1위에 올랐고요. / 영국에서도 1위 / 포티에 피쳐링 킴 브라,
+  somebody that I used to know.","- 분류: 아님
+- 제품:
+- 회사:"
+4340.2,4348.4,8.2,speech,speech_output_segment_306.mp3; speech_output_segment_304.mp3; speech_output_segment_305.mp3,speech_4343.txt; speech_4341.txt; speech_4340.txt,/ 이십. / 구이 / 75 makes us best break up songs of all time,"- 분류: 안됨
+- 제품: 
+- 회사:"
+4348.4,4354.6,6.2,speech,speech_output_segment_307.mp3; speech_output_segment_309.mp3; speech_output_segment_310.mp3; speech_output_segment_308.mp3,speech_4350.txt; speech_4353.txt; speech_4351.txt; speech_4348.txt,/ 28위는 / 오쇼예 / 바원입니다. / 2천 4년 작품.,"- 분류: 안됨
+- 제품:
+- 회사:"
+4354.6,4361.5,6.9,speech,speech_output_segment_311.mp3; speech_output_segment_312.mp3,speech_4357.txt; speech_4354.txt,"/ 번, 불태운 되는 거 아니에요? / 이미 관계가 끝났습니다.
+  이 관계를 완전히 불태워버린...","- 분류: 아님
+- 제품: 
+- 회사:"
+4361.5,4369.1,7.7,speech,speech_output_segment_316.mp3; speech_output_segment_314.mp3; speech_output_segment_313.mp3; speech_output_segment_315.mp3,speech_4362.txt; speech_4364.txt; speech_4361.txt; speech_4366.txt,/ 예 /  / 그 정확하게 / 밝혀진 건 없습니다만 이 당시에.,"- 분류: 안됨
+- 제품: 
+- 회사:"
+4369.1,4377.0,7.9,speech,speech_output_segment_318.mp3; speech_output_segment_319.mp3; speech_output_segment_317.mp3,speech_4372.txt; speech_4373.txt; speech_4369.txt,/ TLC의 멤버 / 칠리하고 / 어슈가 연인관계였거든요?,"- 분류: 아님
+- 제품: 
+- 회사:"
+4377.0,4384.3,7.4,speech,speech_output_segment_322.mp3; speech_output_segment_320.mp3; speech_output_segment_321.mp3,speech_4381.txt; speech_4378.txt; speech_4376.txt,/ 그다지 헤어졌어요 / 이것에 관한 노래라고 / 사람들이 다 생각하는 거죠?,"- 분류: 아님
+- 제품:
+- 회사:"
+4384.3,4390.3,5.9,speech,speech_output_segment_323.mp3,speech_4384.txt,/ 뭐 저도 어디선가 이렇게 얘기했다는 것도 같고요,"- 분류: 안됨
+- 제품:
+- 회사:"
+4390.3,4397.0,6.7,speech,speech_output_segment_325.mp3; speech_output_segment_324.mp3,speech_4394.txt; speech_4390.txt,"/ 뭐 영감을 얻은 곡이라는 그런 얘기도 했고요 / 음..
+  어시한테 물어봐야지","- 분류: 안됨
+- 제품:
+- 회사:"
+4397.0,4402.8,5.8,speech,speech_output_segment_326.mp3; speech_output_segment_327.mp3,speech_4397.txt; speech_4399.txt,"/ ...
+  자, 어수에!! / 뻔히 28위. 27위는","- 분류: 안됨
+- 제품: 
+- 회사:"
+4402.8,4408.1,5.4,speech,speech_output_segment_329.mp3; speech_output_segment_330.mp3; speech_output_segment_328.mp3,speech_4402.txt; speech_4405.txt; speech_4406.txt,/ 1972년 작품 / 엘비 스프레스리 / Always,"- 분류: 안됨
+- 제품:
+- 회사: 엘비 스프레스리"
+4408.1,4414.3,6.1,speech,speech_output_segment_331.mp3; speech_output_segment_332.mp3; speech_output_segment_333.mp3,speech_4412.txt; speech_4409.txt; speech_4408.txt,/ on my mind / 두고 부탁드리겠습니다. 먼저 28위 아쉬워 / 본,"- 분류: 안됨
+- 제품:
+- 회사:"
+4414.3,4519.6,105.3,music,music_output_segment_334.mp3,music_4414.txt,"/ But I don't understand why
+  She's burning me to hold on to this
+  I know this is something I gotta do
+  But that don't mean I want to
+  What I'm trying to say is that
+  I love you I just
+  I feel like this
+  It's coming to an end
+  And it's better for me to
+  Let it go now
+  And hold on and hurt you
+  I gotta let it burn
+  It's coming burn for me to say this
+  It's coming from my heart
+  It's been a long time coming
+  But we didn't pin fell apart
+  We really wanna work this out
+  And I don't think it gonna change
+  I do but you don't
+  Think it's best we go our separate ways
+  Yeah everyone
+  I should stay at this relationship
+  When I'm hurting baby
+  I ain't happy baby
+  Cause there's so many other things
+  I gotta deal with
+  I think that you should
+  Let it burn
+  When you're feeling the same
+  And your body don't want you
+  You know I gotta let it go
+  Cause the body ain't jumping like it used to
+  Oh no
+  If you know that's not true
+  Let it burn
+  Let it burn
+  Gotta let it burn
+  You know it's best for yourself
+  But you
+  Ain't the thought of a being
+  With someone else
+  But you know that it's over
+  Let it burn
+  Let it burn
+  Let it burn
+  Gonna let it burn
+  Got somebody here but I want you
+  Cause the feeling","- 분류: 아님
+- 제품:
+- 회사:"
+4519.6,4523.1,3.5,speech,speech_output_segment_335.mp3,speech_4519.txt,"/ NAME THE SAME
+  FIND MYSELF DOLLIN' HER
+  YO NAME
+  NAME THIS TIME IN D","- 분류: 안됨
+- 제품:
+- 회사:"
+4523.1,4536.4,13.3,music,music_output_segment_336.mp3,music_4523.txt,/ 부탁드립니다!,"- 분류: 안됨
+- 제품:
+- 회사:"
+4536.4,4818.8,282.4,music,music_output_segment_337.mp3,music_4536.txt,"/ 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 �
+  뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅�
+  뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅�
+  뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅�
+  뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 뱅뱅 �
+  그만둬, 그만둬, 그만둬
+  그만둬, 그만둬, 그만둬
+  그만둬, 그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬, 그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  그만둬
+  You were always on my mind
+  Tell me, tell me that your sweet love hasn't died
+  Give me, give me one more chance to keep you satisfied
+  I said it's fine
+  Little things I should have said and done
+  I just never took the time
+  You were always on my mind
+  You were always on my mind","- 분류: 아님
+- 제품: 
+- 회사:"
+4818.8,4872.9,54.0,music,music_output_segment_338.mp3,music_4818.txt,"/ 여기가
+  네, 우리","- 분류: 안됨
+- 제품:
+- 회사:"
+4872.9,4879.8,7.0,speech,speech_output_segment_340.mp3; speech_output_segment_339.mp3,speech_4872.txt; speech_4875.txt,"/ 아, 23L 비스프레슬리에 / Always on my mind","- 분류: 안됨
+- 제품: 
+- 회사:"
+4879.8,4885.5,5.7,speech,speech_output_segment_343.mp3; speech_output_segment_341.mp3; speech_output_segment_342.mp3,speech_4879.txt; speech_4881.txt; speech_4883.txt,/ 그 왠 맥크레이라는 가수가 / 가장 먼저 발표했고요 / 브랜덜리도 발표했고,"- 분류: 안됨
+- 제품:
+- 회사:"
+4885.5,4892.3,6.8,speech,speech_output_segment_344.mp3; speech_output_segment_346.mp3; speech_output_segment_345.mp3,speech_4888.txt; speech_4890.txt; speech_4885.txt,/ 다 히트가 안됐습니다 / 엘비 스프레슬리 버전이 / 엄청 히트하면서,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+4892.3,4901.6,9.2,speech,speech_output_segment_349.mp3; speech_output_segment_348.mp3; speech_output_segment_347.mp3,speech_4896.txt; speech_4892.txt; speech_4895.txt,/ 그 뒤에 또 패션 보이스 커버에서 히트 시켰고요. / 네 / 1972년 작품 Always On My Mind,"- 분류: 아님
+- 제품:
+- 회사:"
+4901.6,4905.9,4.3,speech,speech_output_segment_350.mp3,speech_4901.txt,/ 엘비스프레슬리 앞에 들으시는 마음은 28위 어치어에,"- 분류: 안됨
+- 제품: 
+- 회사:"
+4905.9,4911.0,5.1,speech,speech_output_segment_351.mp3,speech_4905.txt,/ 자 최고의 이별노래 26위는,"- 분류: 안됨
+- 제품:
+- 회사:"
+4911.0,4916.5,5.5,speech,speech_output_segment_354.mp3; speech_output_segment_353.mp3; speech_output_segment_352.mp3,speech_4912.txt; speech_4911.txt; speech_4915.txt,/ 푸르노 마우스 / When I was your man / 이천,"- 분류: 안됨
+- 제품: 푸르노 마우스
+- 회사: 이천"
+4916.5,4922.1,5.6,speech,speech_output_segment_357.mp3; speech_output_segment_356.mp3; speech_output_segment_355.mp3,speech_4919.txt; speech_4916.txt; speech_4918.txt,/ 13년 작품 / 어 / 이건 뭐 그 당시 여자친구였던,"- 분류: 안됨
+- 제품: 
+- 회사:"
+4922.1,4927.4,5.3,speech,speech_output_segment_361.mp3; speech_output_segment_359.mp3; speech_output_segment_360.mp3; speech_output_segment_362.mp3; speech_output_segment_358.mp3,speech_4922.txt; speech_4924.txt; speech_4926.txt; speech_4925.txt,/ 예 / 모델이죠? / ですか? / 3번 / 아잇,"- 분류: 안됨
+- 제품: 
+- 회사:"
+4927.4,4934.8,7.4,speech,speech_output_segment_363.mp3; speech_output_segment_364.mp3,speech_4927.txt; speech_4931.txt,/ 이 사람하고 헤어지면 안 되겠다. 이게 두려워서 만들었다 그래. / 이 노래 만들어서 그런가 아직도 생기고 있습니다.,"- 분류: 아님
+- 제품:
+- 회사:"
+4934.8,4940.2,5.4,speech,speech_output_segment_365.mp3; speech_output_segment_366.mp3,speech_4934.txt; speech_4938.txt,"/ 오우
+  미국 싱글 자트 1위 / 영국차트 2위","- 분류: 안됨
+- 제품:
+- 회사:"
+4940.2,4946.0,5.8,speech,speech_output_segment_367.mp3; speech_output_segment_368.mp3; speech_output_segment_369.mp3,speech_4942.txt; speech_4940.txt; speech_4944.txt,/ When I was your man / 보노마스 이심유기 / 25위는?,"- 분류: 아님
+- 제품:
+- 회사:"
+4946.0,4948.0,2.0,speech,speech_output_segment_370.mp3,speech_4945.txt,/ 나탈리 인브롤리아,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+4948.0,4953.1,5.1,speech,speech_output_segment_371.mp3,speech_4947.txt,/ 톤입니다. 26이 꼭부터 먼저 듣겠습니다. 브루노마스,"- 분류: 아님
+- 제품: 
+- 회사:"
+4953.1,4954.9,1.8,speech,speech_output_segment_372.mp3,speech_4953.txt,/ When I was your man,"- 분류: 아님
+- 제품: 
+- 회사:"
+4954.9,5032.6,77.7,music,music_output_segment_373.mp3,music_4954.txt,"/ Say in bed but I feel just a little bit bigger now
+  Does it just tear me down?
+  Cause my heart breaks a little
+  When I hear your name
+  It all just sounds like
+  Ooh
+  Too young, too dumb to realize
+  That I should have bought you flowers
+  And held your hand
+  I should have gave you all my hours
+  When I had the chance
+  Take it to everybody
+  Cause all you wanted to do was dance
+  Now my baby's dancing
+  But she's dancing with another man","- 분류: 아님
+- 제품:
+- 회사:"
+5032.6,5127.4,94.8,music,music_output_segment_374.mp3,music_5032.txt,"/ 내 브라이드마이거, 내 필요, 내 selfish ways
+  Cause the good strong woman like you to walk out my life
+  Now I'll never, never get to clean up the mess I made
+  And that haunts me every time I close my eyes
+  It all just sounds like
+  Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+  Come to young to dumb to realize
+  That I should have bought you flowers
+  And held your hand
+  Sure to give you all my hours
+  When I had the chance
+  Take it to everybody cause all you wanted to do was dance
+  Now my baby's dancing
+  But she's dancing with another man
+  Although it hurts
+  I'll be the first to say that I was wrong
+  Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+  I know I'm probably much too late
+  To try and apologize for my mistakes
+  But I just want you to know","- 분류: 아님
+- 제품:
+- 회사:"
+5127.4,5134.6,7.2,music,music_output_segment_375.mp3,music_5127.txt,/ 는 저에게 아주 큰 힘이 됩니다.,"- 분류: 안됨
+- 제품:
+- 회사:"
+5134.6,5159.5,24.9,music,music_output_segment_376.mp3,music_5134.txt,/ Q&A,"- 분류: 안됨
+- 제품:
+- 회사:"
+5159.5,5162.4,2.9,music,music_output_segment_377.mp3,music_5159.txt,/ 는 저에게 아주 큰 힘이 됩니다.,"- 분류: 안됨
+- 제품:
+- 회사:"
+5162.4,5170.1,7.8,music,music_output_segment_378.mp3,music_5162.txt,/ 해주세요!,"- 분류: 안됨
+- 제품:
+- 회사:"
+5170.1,5182.5,12.4,speech,speech_output_segment_379.mp3,speech_5170.txt,"/ 26위 브루너마얼스 웬 아이워 주요 맨 25위가 나탈리인 브루리아 통 1997년 작품
+  나탈리인 브루리아의 오리지널 곡은 아니구요","- 분류: 안됨
+- 제품:
+- 회사:"
+5182.5,5186.9,4.4,music,music_output_segment_380.mp3,music_5182.txt,/ 미국의 락밴드입니다,"- 분류: 아님
+- 제품:
+- 회사:"
+5186.9,5204.1,17.2,speech,speech_output_segment_381.mp3,speech_5186.txt,"/ 에드나스 웹 1995년에 발표했는데 히트가 안됐어요
+  그 뒤에도 몇몇 가수가 이 곡을 취입을 했는데 여전히 안됐습니다
+  그러다가 나탈리 인브롤리아가 1997년에","- 분류: 아님
+- 제품: 
+- 회사:"
+5204.1,5210.3,6.2,speech; music,music_output_segment_382.mp3; speech_output_segment_383.mp3,music_5204.txt; speech_5208.txt,"/ 아, 히트시켰죠? / 할린 브롤리아가 오리지널인..","- 분류: 안됨
+- 제품:
+- 회사:"
+5210.3,5212.7,2.4,music,music_output_segment_384.mp3,music_5210.txt,/ 잘 치는 분들이 많아요,"- 분류: 안됨
+- 제품:
+- 회사:"
+5212.7,5219.8,7.1,speech,speech_output_segment_385.mp3,speech_5212.txt,"/ 영국 싱글 차트 2위까지 올랐고요.
+  뭐 제목에서 벌써 TORN, 톤이잖아요.","- 분류: 안됨
+- 제품:
+- 회사:"
+5219.8,5231.7,12.0,music,music_output_segment_386.mp3,music_5219.txt,"/ 이별한 뒤에 그 마음이 찢어지는 듯한 것들을 노래하는 거죠.
+  시간이 거의 다 돼가지고요.
+  광고 뒤에","- 분류: 안됨
+- 제품:
+- 회사:"
+5231.7,5234.2,2.5,speech,speech_output_segment_387.mp3,speech_5231.txt,/ 처음부터 다시 빌려드리도록 하겠습니다,"- 분류: 안됨
+- 제품: 
+- 회사:"
+5234.2,5320.2,86.0,music,music_output_segment_388.mp3,music_5234.txt,"/ 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 �
+  롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러메 tendsh
+  롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러스의 롤러메 tendsh
+  롤러스의 롤러메ła isn not where he used to lie","- 분류: 안됨
+- 제품:
+- 회사:"
+5320.2,5324.3,4.1,music,music_output_segment_389.mp3,music_5320.txt,/,"- 분류: 안됨
+- 제품: 
+- 회사:"
+5324.3,5345.7,21.4,music,music_output_segment_390.mp3,music_5324.txt,"/ 악보 찾으려면 어디로 가야 되지?
+  악보 부터 받아 여기는 악보받아
+  악보 찾다 열 받아 컴다운 악보받아
+  퀄리티가 달라 여기는 악보받아
+  Come on yo 악보받아
+  세상 모든 악보 온라인 도 모바일 도
+  여기서 탁 다운받아
+  뮤직디자이너 악보받아","- 분류: 광고
+- 제품: 악보
+- 회사: 뮤직디자이너"
+5345.7,5351.8,6.1,speech,speech_output_segment_391.mp3,speech_5345.txt,"/ 지키고 싶은 연인, 가족, 우리 아이, 건강, 농어.","- 분류: 아님
+- 제품:
+- 회사:"
+5351.8,5365.0,13.2,speech,speech_output_segment_392.mp3,speech_5351.txt,"/ 그리고 지구를 위해 나와 지구 우리 모두를 지키는 당법
+  커져라 친환경 농산물
+  지구를 지키는 농부와 친환경 농산물 자조금 관리위원회가 함께합니다","- 분류: 광고
+- 제품: 친환경 농산물
+- 회사: 친환경 농산물 자조금 관리위원회"
+5365.0,5380.6,15.6,music,music_output_segment_393.mp3,music_5365.txt,"/ 수미 수미 다수미 남방 텐트 다수미 실내 온도 올라가 남방 요격 내려가
+  우리 겨울 따뜻해지는 주문 수미 수미 다수미 남방 텐트","- 분류: 광고
+- 제품: 수미 수미 다수미 남방 텐트
+- 회사: 수미"
+5380.6,5400.9,20.3,speech,speech_output_segment_394.mp3,speech_5380.txt,"/ 겨울 따뜻해지는 주문
+  스미스미 따스미
+  조보아의 따스미 텐트
+  안녕하세요 안녕하세요
+  코알레미드 인플란트 모델
+  이경영입니다
+  인플란트
+  선택에 따라 인생이 달라지니까
+  세상이 흔들려도 당신의 인플란트는
+  흔들리지 않도록
+  인플란트의 발은 선택
+  코알레미드로 진행시키라","- 분류: 광고
+- 제품: 코알레미드 인플란트
+- 회사: 스미스미"
+5400.9,5409.3,8.4,speech; music,speech_output_segment_396.mp3; music_output_segment_395.mp3; music_output_segment_397.mp3,music_5400.txt; speech_5403.txt; music_5405.txt,/ 고에매틴 고에매틴 / 여기이기 광고심의 필 /,"- 분류: 안됨
+- 제품:
+- 회사:"
+5409.3,5415.3,6.0,music,music_output_segment_398.mp3,music_5409.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+5415.3,5471.1,55.8,speech,speech_output_segment_399.mp3,speech_5415.txt,"/ 오늘도 당신편 MBC FN4U 날씨와 생활입니다.
+  어제는 찬바람에 무척 추웠는데 오늘은 추위가 조금 덜했습니다.
+  내일도 서울의 아침 기온은 영하 4도까지 떨어지면서 춥겠지만
+  한낮에는 오늘과 비슷하겠습니다.
+  모레까지는 예년 수준에 초겨울 추위가 이어지겠고요.
+  수요일 아침 기온은 더 떨어집니다.
+  서울은 영하 7도까지 떨어져 올겨울 들어 가장 춥겠습니다.
+  내일도 서쪽에는 비나 눈이 내립니다.
+  눈은 5cm, 비는 5mm 안팎으로 내리겠는데
+  밤사이 내린 눈과 비가 얼어붙을 수 있어서
+  빙판길을 조심하셔야겠습니다.
+  동해안에는 건조한 바람이 더 들어오겠습니다.
+  동해안과 수도권 일후에는 현재 건조특보 발효 중입니다.
+  남해 고속도로 순천 방향 북청원 북은 각 길에서
+  화물차 과제 사고 처리하고 있어 북은 정체입니다.
+  김유정입니다.
+  오늘도 당신편 MBC FN4U 날씨와 생활이었습니다.","- 분류: 아님
+- 제품:
+- 회사: MBC FN4U"
+5471.1,5477.5,6.4,music,music_output_segment_400.mp3,music_5471.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+5477.5,5718.8,241.3,music,music_output_segment_401.mp3,music_5477.txt,"/ 롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러
+  롤러에 있는 롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에 있는 롤러
+  롤러에олн 열안
+  롤러에 있는 롤러
+  이건 어떻게 느껴지지?
+  I'm cold and I am shamed
+  Lying naked on the floor
+  Illusion never changed
+  Into something real
+  I'm wide awake and I can see
+  The perfect sky is torn
+  You're a little late
+  I'm already torn
+  I'm already torn
+  There's nothing where he used to lie
+  My inspiration has run dry
+  That's what's going on
+  Nothing's right, I'm torn
+  I'm all out of faith
+  This is how I feel
+  I'm cold and I am shamed
+  Lying naked on the floor
+  Illusion never changed
+  Into something real
+  I'm wide awake and I can see
+  The perfect sky is torn
+  I'm all out of faith
+  This is how I feel
+  I'm cold and I am shamed
+  Lying naked on the floor
+  You're a little late
+  I'm already torn
+  Torn
+  You're a little late
+  I'm already torn","- 분류: 안됨
+- 제품:
+- 회사:"
+5718.8,5725.7,6.9,speech,speech_output_segment_402.mp3,speech_5718.txt,/ 네 나탈린블리아의 톤 들었습니다 25위 자 이별노래 24위는,"- 분류: 안됨
+- 제품:
+- 회사:"
+5725.7,5730.7,5.0,speech,speech_output_segment_404.mp3; speech_output_segment_403.mp3,speech_5728.txt; speech_5725.txt,/ 프릿우드맥의 렌즈 슬라이드입니다. / 1975년 작품,"- 분류: 아님
+- 제품: 렌즈 슬라이드
+- 회사: 프릿우드맥"
+5730.7,5738.7,8.0,speech,speech_output_segment_406.mp3; speech_output_segment_405.mp3,speech_5734.txt; speech_5730.txt,/ 이 노래는 스티비닉스가 만들었습니다. / 음... 가슴 아픈 이별을 산사태에 비유한 거예요,"- 분류: 아님
+- 제품:
+- 회사:"
+5738.7,5744.8,6.1,speech,speech_output_segment_408.mp3; speech_output_segment_407.mp3,speech_5738.txt; speech_5742.txt,/ 자 지금 따지 보면 사랑노래기라기보다는 / 현실에서 좌절한,"- 분류: 아님
+- 제품: 
+- 회사:"
+5744.8,5752.9,8.2,speech,speech_output_segment_409.mp3; speech_output_segment_410.mp3; speech_output_segment_411.mp3,speech_5746.txt; speech_5749.txt; speech_5744.txt,/ 내용이라고 볼 수도 있습니다. / 아 스티비닉스가 무명시절에 / 뭐 웨이트리스도 하고 총소부도 하고,"- 분류: 아님
+- 제품: 
+- 회사:"
+5752.9,5758.8,5.8,speech,speech_output_segment_413.mp3; speech_output_segment_412.mp3,speech_5755.txt; speech_5752.txt,/ 이런 걸 전전하면서 이 노래 만들었다고 그래요. / 당신 자신의 삶이,"- 분류: 아님
+- 제품: 
+- 회사:"
+5758.8,5764.3,5.5,speech,speech_output_segment_414.mp3; speech_output_segment_415.mp3,speech_5761.txt; speech_5758.txt,/ 산사태가 발생한 것처럼 / 조금의 희망도 보이지 않았다,"- 분류: 아님
+- 제품:
+- 회사:"
+5764.3,5770.3,6.1,speech,speech_output_segment_416.mp3,speech_5764.txt,"/ 음...
+  프리드 우드맥, 렌즈 슬라이드 24위, 23위는","- 분류: 안됨
+- 제품:
+- 회사:"
+5770.3,5775.7,5.4,speech,speech_output_segment_418.mp3; speech_output_segment_419.mp3; speech_output_segment_417.mp3,speech_5771.txt; speech_5773.txt; speech_5770.txt,"/ 클로리아게이너 / I will sub by / 자, 두고 부탁했습니다, 먼저","- 분류: 안됨
+- 제품:
+- 회사:"
+5775.7,5778.9,3.1,speech,speech_output_segment_420.mp3,speech_5775.txt,/ 플릭 우드맥의 랜드 슬라이,"- 분류: 광고
+- 제품: 랜드 슬라이
+- 회사: 플릭 우드맥"
+5778.9,5961.1,182.3,music,music_output_segment_421.mp3,music_5778.txt,"/ 자, 뒷분itat을 착용해� replaces a scene from a 27-year old tomato living room where
+  unrecognizable
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.
+  그만둔 날씨가 다가오게 되었습니다.","- 분류: 아님
+- 제품: 
+- 회사:"
+5961.1,5972.9,11.8,music,music_output_segment_422.mp3,music_5961.txt,/,"- 분류: 안됨
+- 제품: 
+- 회사:"
+5972.9,6168.3,195.4,music,music_output_segment_423.mp3,music_5972.txt,"/ I should have changed that stupid lock I should have made you leave your key
+  If I'd have known for just one second You'd be back to bother me
+  Oh I'll now go, walk out the door Just turn around now
+  Cause you're not welcome anymore Weren't you the one who tried to hurt me
+  With goodbye, just a guy's crumble Just a guy to lay down and die
+  Oh no, not I, I will survive Oh as long as I know how to love
+  I know how to feel life I've got all my life to live
+  I've got all my love to give I'll survive, I will survive
+  It took all the stress I had Not to fall apart
+  Just trying to argument the pieces of my broken heart
+  And I've been oh so many nights Just feeling sorry for myself
+  I used to cry But now I hold my head up high and you see me
+  Somebody knew I'm not that changed up little person
+  I'm still in love with you And so you felt like flapping in
+  And just expect me to be free Now I'm saving all my loving
+  For someone who's loving me Oh I'll now go, walk out the door
+  Just turn around now Cause you're not welcome anymore
+  Weren't you the one who tried to break me With goodbye, just a guy's crumble
+  Just a guy to lay down and die Oh no, not I, I will survive
+  Oh as long as I know how to love I know how to feel life
+  I've got all my life to live I've got all my love to give
+  I'll survive, I will survive Oh
+  I'll now go, walk out the door Just turn around now
+  Cause you're not welcome anymore Weren't you the one who tried to break me
+  With goodbye, just a guy's crumble Just a guy to lay down and die
+  Oh no, not I, I will survive Oh as long as I know how to love
+  I know how to love I know how to feel life I've got all my life to live
+  I've got all my love to give I'll survive, I will survive
+  I will survive","- 분류: 아님
+- 제품:
+- 회사:"
+6168.3,6174.3,6.0,speech,speech_output_segment_424.mp3,speech_6168.txt,/ 어...,"- 분류: 안됨
+- 제품: 
+- 회사:"
+6174.3,6179.3,5.0,speech,speech_output_segment_425.mp3; speech_output_segment_426.mp3,speech_6174.txt; speech_6175.txt,"/ 23위 / 클로리아게이너, I will survive","- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+6179.3,6185.8,6.4,speech,speech_output_segment_427.mp3; speech_output_segment_428.mp3,speech_6179.txt; speech_6181.txt,"/ 아!!
+  이쪽 / 모타온 소속 적 작고가가 있었는데요","- 분류: 안됨
+- 제품:
+- 회사:"
+6185.8,6191.8,6.1,speech,speech_output_segment_430.mp3; speech_output_segment_429.mp3,speech_6187.txt; speech_6185.txt,"/ 아, 해고당했어요 / 이후에 자기가 못하고 있을 때 작곡한","- 분류: 아님
+- 제품: 
+- 회사:"
+6191.8,6198.1,6.3,speech,speech_output_segment_431.mp3; speech_output_segment_432.mp3,speech_6191.txt; speech_6194.txt,/ 웨어워스가 텔레비전에서 / 자기가 작곡한 노래를 연주하는 걸 보고,"- 분류: 아님
+- 제품:
+- 회사: 웨어워스"
+6198.1,6204.9,6.7,speech,speech_output_segment_434.mp3; speech_output_segment_433.mp3; speech_output_segment_436.mp3; speech_output_segment_435.mp3,speech_6202.txt; speech_6199.txt; speech_6198.txt; speech_6201.txt,/ 그래 / 두고 봐라 나는 / 살아남을테니까 / 이런 심정을 담아서.,"- 분류: 안됨
+- 제품:
+- 회사:"
+6204.9,6206.1,1.3,speech,speech_output_segment_437.mp3,speech_6204.txt,/ 만드는 노래에요,"- 분류: 아님
+- 제품:
+- 회사:"
+6206.1,6211.2,5.1,speech,speech_output_segment_438.mp3,speech_6206.txt,/ 글루리아 게이너는 이 곡이 무조건 히트할 거라고 생각을 했지만,"- 분류: 아님
+- 제품: 
+- 회사:"
+6211.2,6219.0,7.8,speech,speech_output_segment_442.mp3; speech_output_segment_441.mp3; speech_output_segment_440.mp3; speech_output_segment_439.mp3,speech_6215.txt; speech_6212.txt; speech_6214.txt; speech_6211.txt,"/ 당신의 음반사가 / 이 노래를 / 싱구리 / 두 고기 실려 있잖아
+  비면에다 수록하려고 했어요","- 분류: 아님
+- 제품:
+- 회사:"
+6219.0,6225.3,6.3,speech,speech_output_segment_443.mp3; speech_output_segment_444.mp3,speech_6222.txt; speech_6219.txt,/ 원래 밀려던 곡은 Substitute / 근데 이 곡을 기억하는 사람은 없죠?,"- 분류: 안됨
+- 제품:
+- 회사:"
+6225.3,6230.6,5.3,speech,speech_output_segment_446.mp3; speech_output_segment_445.mp3,speech_6227.txt; speech_6225.txt,"/ 압일 서바이브는 / 생돈했죠
+  I will survive","- 분류: 안됨
+- 제품:
+- 회사:"
+6230.6,6239.1,8.6,speech,speech_output_segment_447.mp3; speech_output_segment_448.mp3,speech_6230.txt; speech_6235.txt,"/ 글루리아 게이너 22위 곡은 / 씨네드 오크노, nothing compares to you","- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+6239.1,6245.3,6.2,speech,speech_output_segment_450.mp3; speech_output_segment_449.mp3; speech_output_segment_451.mp3,speech_6239.txt; speech_6240.txt; speech_6243.txt,/ 1990년 작품 / 이건 뭐 프린스 작품입니다. / 프린스고,"- 분류: 아님
+- 제품:
+- 회사:"
+6245.3,6252.4,7.1,speech,speech_output_segment_455.mp3; speech_output_segment_454.mp3; speech_output_segment_452.mp3; speech_output_segment_453.mp3,speech_6248.txt; speech_6249.txt; speech_6246.txt; speech_6245.txt,/ 85년이 이미. / 발표를 했어요. / 근데 / 프린스의 오리지널은 거의 잊히고,"- 분류: 안됨
+- 제품:
+- 회사:"
+6252.4,6257.9,5.6,speech,speech_output_segment_456.mp3; speech_output_segment_458.mp3; speech_output_segment_457.mp3,speech_6255.txt; speech_6254.txt; speech_6252.txt,/ 스네이도의 버전이 / 크기 히트하면서 / 아...,"- 분류: 안됨
+- 제품:
+- 회사:"
+6257.9,6264.3,6.4,speech,speech_output_segment_459.mp3; speech_output_segment_461.mp3; speech_output_segment_460.mp3,speech_6262.txt; speech_6257.txt; speech_6260.txt,/ 프린스 버전도 괜찮습니다. / 자 22위 /,"- 분류: 안됨
+- 제품:
+- 회사:"
+6264.3,6266.9,2.6,speech,speech_output_segment_462.mp3,speech_6264.txt,/ Nothing compares to you.,"- 분류: 안됨
+- 제품: 
+- 회사:"
+6266.9,6560.7,293.8,music,music_output_segment_463.mp3,music_6266.txt,"/ 두 명의abul
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+  그만둬서
+ 은
+  It's been so lonely without you here
+  Like a bird without a song
+  Nothing can stop these lonely tears from falling
+  Tell me baby, when did I go wrong?
+  I put my arms around every boy I see
+  But only when I'm with you
+  I went to the doctor
+  Guess what he told me
+  Guess what he told me
+  You said girl you better try to have fun
+  No matter what you do
+  But he's a fool
+  Cause nothing compares
+  Nothing compares to you
+  You said girl you better try to have fun
+  No matter what you do
+  But he's a fool
+  Cause nothing compares to you
+  But he's a fool
+  Cause nothing compares to you
+  You said girl you better try to have fun
+  No matter what you do
+  But he's a fool
+  Cause nothing compares to you
+  You said girl you better try to have fun
+  No matter what you do
+  But he's a fool
+  Cause nothing compares to you
+  Cause nothing's hard
+  But I'm willing to give another try
+  Nothing compares
+  Nothing compares to you
+  Nothing compares
+  Nothing compares to you
+  Nothing compares
+  Nothing compares to you
+  You said girl you better try to have fun
+  No matter what you do
+  But he's a fool","- 분류: 아님
+- 제품:
+- 회사:"
+6560.7,6565.8,5.1,speech,speech_output_segment_464.mp3; speech_output_segment_465.mp3,speech_6562.txt; speech_6560.txt,/ 안전화가 이렇게 편해도 돼요? / 나도 모르게 집에까지 신고 간대니까요,"- 분류: 광고
+- 제품: 안전화
+- 회사: 없음"
+6565.8,6592.5,26.7,speech,speech_output_segment_466.mp3,speech_6565.txt,"/ 우리는 발이 건강해야 하니까 안전아 아무거나 못 신어요
+  내가 안전해야 가족이 안심하지 그래서 난 꼭 지변만 신어
+  집엔 안전화를 구식하는 확실한 이유가 있다
+  생각의 차이가 만드는 같이 집엔 안전화
+  어제 너무 달렸나
+  점심의 해장국?
+  또 그냥 해장국 말고
+  제주 은인의 해장국
+  가마솥 사골 육수에 소고기 콩나물을 아낌없이","- 분류: 아님
+- 제품: 
+- 회사:"
+6592.5,6595.1,2.6,music,music_output_segment_467.mp3,music_6592.txt,/ 팟팟!,"- 분류: 안됨
+- 제품:
+- 회사:"
+6595.1,6600.8,5.7,speech,speech_output_segment_468.mp3,speech_6595.txt,"/ 얼큰하고 개운하니 확 깨는데?
+  대한민국 대표 해장국 제조 은인회 해장국","- 분류: 광고
+- 제품: 해장국
+- 회사: 은인회"
+6600.8,6621.0,20.3,speech,speech_output_segment_469.mp3,speech_6600.txt,"/ 한국 영업 경제인협회 전 국민에게 특별한 재택 혜택을 준비했다는 게 사실입니까?
+  네 한국 영업 경제인협회 가입 후 카사효과 후원하는 기프트 10만원을 결제하면 최대 120만원 현금 혜택을 드립니다.
+  회원물 혜택은 기본 국민 누구나 다입할 수 있습니다. 검색창의 한국 영업 경제인협회 이벤트는 25년 1월까지","- 분류: 광고
+- 제품: 카사효과 후원 기프트
+- 회사: 한국 영업 경제인협회"
+6621.0,6622.7,1.7,music,music_output_segment_470.mp3,music_6621.txt,/,"- 분류: 안됨
+- 제품:
+- 회사:"
+6622.7,6627.9,5.2,speech,speech_output_segment_471.mp3,speech_6622.txt,"/ 잠시 후 윤태진의 FM 데이트가 시작됩니다.
+  기다리고 있을게요.","- 분류: 아님
+- 제품: 
+- 회사:"
+6627.9,6635.3,7.3,speech; music,speech_output_segment_473.mp3; music_output_segment_472.mp3,music_6627.txt; speech_6631.txt,/  / 배틀스의 음악 캠프입니다. Sunday Special,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+6635.3,6641.0,5.7,speech,speech_output_segment_474.mp3,speech_6635.txt,/ 빌보드에 선정한 75 베스트 브레이크업 송섭 올드타임,"- 분류: 아님
+- 제품:
+- 회사:"
+6641.0,6647.3,6.3,speech,speech_output_segment_475.mp3; speech_output_segment_476.mp3,speech_6640.txt; speech_6645.txt,/ 이별 노래 중에 최고의 노래들을 쫙 모아서 보내드리고 있습니다. / 21인은,"- 분류: 광고
+- 제품: 이별 노래
+- 회사: 21인"
+6647.3,6652.4,5.1,speech,speech_output_segment_478.mp3; speech_output_segment_477.mp3,speech_6647.txt; speech_6649.txt,/ 칼리사이몬의 유어소 / 1972년 작품,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+6652.4,6657.8,5.4,speech,speech_output_segment_479.mp3,speech_6652.txt,/ 이미 자신의 인생에서 떠나간 자기 밖에 모르는 그 이기적인,"- 분류: 안됨
+- 제품:
+- 회사:"
+6657.8,6662.8,5.0,speech,speech_output_segment_482.mp3; speech_output_segment_480.mp3; speech_output_segment_481.mp3,speech_6660.txt; speech_6661.txt; speech_6657.txt,"/ 어..
+  쿠 / 그 인간 / 네","- 분류: 안됨
+- 제품:
+- 회사:"
+6662.8,6668.8,5.9,speech,speech_output_segment_484.mp3; speech_output_segment_483.mp3; speech_output_segment_485.mp3,speech_6664.txt; speech_6667.txt; speech_6662.txt,/ ㅋㅋ / 방만 나올 뻔했어요 / 흐흐흐흐흐,"- 분류: 아님
+- 제품: 
+- 회사:"
+6668.8,6674.4,5.6,speech,speech_output_segment_486.mp3,speech_6668.txt,/ 칼리사이몬이 인터뷰에서 그런 인간이 내 인생에 3명 정도 있었다.,"- 분류: 아님
+- 제품: 
+- 회사:"
+6674.4,6679.6,5.2,speech,speech_output_segment_487.mp3,speech_6674.txt,"/ 한 명은 아예 이름을 밝혔는데
+  아 그 당시에 뭐","- 분류: 안됨
+- 제품:
+- 회사:"
+6679.6,6682.6,3.0,speech,speech_output_segment_488.mp3,speech_6679.txt,/ 미남 배우의 대명사 워렌 비티,"- 분류: 아님
+- 제품:
+- 회사:"
+6682.6,6687.8,5.2,speech,speech_output_segment_489.mp3,speech_6682.txt,/ 이 양반이 참 바람둥이 였던 것 같아요. 칼리사이머 뿐 아니라 옛날에,"- 분류: 안됨
+- 제품:
+- 회사:"
+6687.8,6694.2,6.4,speech,speech_output_segment_490.mp3; speech_output_segment_491.mp3; speech_output_segment_492.mp3,speech_6687.txt; speech_6692.txt; speech_6689.txt,/ 좋은 이미지를 자서 좀 보면 / 좋은 이미 처리에게도 가서 또 / 고백했다가,"- 분류: 아님
+- 제품: 
+- 회사:"
+6694.2,6700.8,6.6,speech,speech_output_segment_496.mp3; speech_output_segment_497.mp3; speech_output_segment_494.mp3; speech_output_segment_493.mp3; speech_output_segment_495.mp3,speech_6697.txt; speech_6698.txt; speech_6694.txt; speech_6695.txt; speech_6696.txt,/ 아 / 안 돼. / 이곳이 펫자마자 / 음 / 자,"- 분류: 안됨
+- 제품:
+- 회사:"
+6700.8,6708.3,7.5,speech,speech_output_segment_499.mp3; speech_output_segment_498.mp3,speech_6700.txt; speech_6704.txt,/ 미국 싱글 차트 1위 영국 싱글 차트 3위 / 가사에 보면 넌 허용심으로 꽉 차있어,"- 분류: 아님
+- 제품: 
+- 회사:"
+6708.3,6716.2,7.9,speech,speech_output_segment_501.mp3; speech_output_segment_500.mp3,speech_6713.txt; speech_6708.txt,"/ 그리고 넌 아마 이 노래가 너에 대한 노래라는 걸 잘 알 거야 / 칼리사임언, you're so vain","- 분류: 아님
+- 제품:
+- 회사:"
+6716.2,6722.1,6.0,speech,speech_output_segment_502.mp3; speech_output_segment_503.mp3,speech_6716.txt; speech_6718.txt,"/ 자, 이 음악 들으면서 / 오늘 배틀 수익 막 캠프 맞춥니다.
+  21위 곡이에요.","- 분류: 아님
+- 제품:
+- 회사:"
+6722.1,6728.9,6.8,speech,speech_output_segment_504.mp3; speech_output_segment_506.mp3; speech_output_segment_505.mp3,speech_6725.txt; speech_6722.txt; speech_6727.txt,"/ 다음 주에 계속해 있죠.
+  프로듀서 이민선 / 작가 김종옥 / 배순 탁 박소영","- 분류: 아님
+- 제품: 
+- 회사:"
+6728.9,6734.0,5.1,speech,speech_output_segment_509.mp3; speech_output_segment_507.mp3; speech_output_segment_508.mp3,speech_6730.txt; speech_6728.txt; speech_6731.txt,/ 끝 / 배철수입니다. / 함께해 주신 여러분 고맙습니다,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+6734.0,6966.6,232.6,music,music_output_segment_510.mp3,music_6734.txt,"/ Girl's Dream
+  That they'd be your partner
+  They'd be your partner
+  And you're so vain
+  You probably think this song is about you
+  You're so vain
+  I bet you think this song is about you
+  Don't you, don't you
+  You had me several years ago
+  When I was still quite naive
+  When you said there would be such a pretty pair
+  And that you would never leave
+  But you gave away the things you loved
+  And one of them was me
+  I had some dreams, they were clouds in my coffee
+  Clouds in my coffee
+  You're so vain
+  You probably think this song is about you
+  You're so vain
+  I bet you think this song is about you
+  Don't you, don't you
+  Don't you, don't you
+  Don't you, don't you
+  Don't you, don't you
+  I had some dreams, they were clouds in my coffee
+  Clouds in my coffee
+  You're so vain
+  You probably think this song is about you
+  You're so vain
+  I bet you think this song is about you
+  Don't you, don't you
+  When I hear you went up to Santa Troja
+  And your horse naturally won
+  Then you blew your legit up to Nova Scotia
+  To see the total eclipse of the sun
+  When you're where you should be all the time
+  And when you're not, you're with some underworld spy
+  Or the wife of a close friend
+  Wife of a close friend
+  You're so vain
+  You probably think this song is about you
+  You're so vain
+  I bet you think this song is about you
+  Don't you, don't you
+  You're so vain
+  You probably think this song is about you
+  You're so vain
+  I bet you think this song is about you","- 분류: 아님
+- 제품: 
+- 회사:"
+6966.6,6976.9,10.3,speech; music,music_output_segment_511.mp3; speech_output_segment_512.mp3,speech_6975.txt; music_6966.txt,/  / 안녕하세요 가수 크러시입니다,"- 분류: 아님
+- 제품: 
+- 회사:"
+6976.9,6991.7,14.8,speech,speech_output_segment_513.mp3,speech_6976.txt,"/ 얼마 전 고인이 된 팝 음악의 거장
+  코인 씨 존스는 생전에 음악에 관해서 이런 조언을 들었다고 합니다
+  코인 씨, 니 음악은 인간으로써 너보다 더 작지도 크지도 않단다","- 분류: 아님
+- 제품:
+- 회사:"
+6991.7,6998.4,6.7,speech,speech_output_segment_514.mp3,speech_6991.txt,/ 결국은 내가 가지고 있는 인간성만큼 음악이 나온다는 말에 깊은 감명을 받았습니다.,"- 분류: 아님
+- 제품: 없음
+- 회사: 없음"
+6998.4,7006.3,7.9,speech,speech_output_segment_515.mp3,speech_6998.txt,"/ 더 많은 사람들이 공감하는 좋은 음악을 만들겠다는 생각 이전에
+  좋은 사람이 되고 싶은 이유입니다.","- 분류: 아님
+- 제품:
+- 회사:"
+7006.3,7024.8,18.5,speech; music,speech_output_segment_517.mp3; music_output_segment_516.mp3,music_7006.txt; speech_7020.txt,/  / 이 캠페인은 함께 쓰는 AI 한컴과 함께합니다.,"- 분류: 아님
+- 제품:
+- 회사: 한컴"
+7024.8,7030.7,5.9,speech,speech_output_segment_518.mp3,speech_7024.txt,/ 지금 시각은 7시 57분입니다.,"- 분류: 아님
+- 제품: 
+- 회사:"
+7030.7,7033.6,2.9,music,music_output_segment_519.mp3,music_7030.txt,/ 스마트 라디오 미니,"- 분류: 광고
+- 제품: 스마트 라디오 미니
+- 회사: 없음 (회사 이름이 제공되지 않음)"
+7033.6,7045.3,11.7,speech,speech_output_segment_520.mp3,speech_7033.txt,"/ 3년 무사고인 안전운전자들이라면 주목!
+  현대의상 하이카 운전자 보험으로 최대 23%까지 할인 받으세요. 가입시 유의사항을 확인하세요.","- 분류: 광고
+- 제품: 하이카 운전자 보험
+- 회사: 현대"
+7045.3,7059.8,14.5,music,music_output_segment_521.mp3,music_7045.txt,"/ 모든 인쇄 가능한
+  성원의 듀피아
+  온라인 줌은 간편한
+  성원의 듀피아
+  누구든지 어디서나 쉽고 빠르게
+  인쇄의 유토피아
+  성원의 듀피아","- 분류: 광고
+- 제품: 듀피아
+- 회사: 성원"
+7059.8,7063.6,3.8,speech,speech_output_segment_522.mp3,speech_7059.txt,/ 주문도 역시 성원 에드피아 국민 인쇄,"- 분류: 광고
+- 제품: 국민 인쇄
+- 회사: 성원 에드피아"
+7063.6,7084.8,21.2,music,music_output_segment_523.mp3,music_7063.txt,/ 워네드 피아,"- 분류: 안됨
+- 제품:
+- 회사:"
+7084.8,7104.2,19.4,speech,speech_output_segment_524.mp3,speech_7084.txt,"/ 보관관리자님,
+  직원 건강관리 어떻게 하고 계세요?
+  다운로드 한 번으로
+  순쉬운 건강 데이터 관리부터
+  포인트 시스템을 통한
+  간편한 인센티브까지
+  한 번에 다 해주는
+  헬피로 관리하죠
+  앱 하나로 그게 다 된다고요?
+  그럼요!
+  이제 건강 캠페인은
+  헬피와 함께하세요!","- 분류: 광고
+- 제품: 헬피
+- 회사: 헬피"
+7104.2,7121.8,17.7,speech; music,music_output_segment_525.mp3; speech_output_segment_526.mp3,speech_7118.txt; music_7104.txt,"/ 헬피 / 매일 아침 10시, 새롭게 선보이는 신상...","- 분류: 광고
+- 제품: 헬피
+- 회사: 헬피"
+7121.8,7147.8,26.0,music,music_output_segment_527.mp3,music_7121.txt,"/ 1.
+  알고 계신가요?","- 분류: 안됨
+- 제품:
+- 회사:"
+7147.8,7164.8,17.0,speech,speech_output_segment_528.mp3,speech_7147.txt,"/ RSV는 독감 바이러스만큼 전염성이 강한 급성 호흡계 감염 바이러스로
+  영요하나 60세 이상 성인에서 감염시
+  패렴 등 심각한 합병증으로 이어질 수 있습니다.
+  주로 독감 바이러스와 비슷한 시기에 발생하는 RSV
+  자세한 내용은 의사와 상담하세요.
+  이 광고는 RSV 질환 인식 캠페인입니다.","- 분류: 광고
+- 제품: RSV 질환 인식 캠페인
+- 회사: 없음"
+7164.8,7180.6,15.7,speech; music,speech_output_segment_530.mp3; music_output_segment_529.mp3,music_7164.txt; speech_7176.txt,/  / 레이노 선팅하면 타선율이 무료 교체. 레이노만의 선팅.,"- 분류: 광고
+- 제품: 레이노 선팅
+- 회사: 레이노"
+7180.6,7184.6,4.0,music,music_output_segment_531.mp3,music_7180.txt,/ 특과,"- 분류: 안됨
+- 제품:
+- 회사:"
+7184.58,7204.96,20.38000000000011,music,music_output_segment_532.mp3,music_7184.txt,,"- 분류: 안됨
+- 제품:
+- 회사:"
